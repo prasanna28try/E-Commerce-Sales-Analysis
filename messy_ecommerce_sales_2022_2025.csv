@@ -1,0 +1,1481 @@
+Order ID,Purchase Date,Product Name,Product Category,Price,Quantity,Revenue,Customer Rating,Region,Payment Method
+ORD10661,06-27-2023,Laptop Pro,Gadgets,50425.43,1,50425.43,3.4,East,COD
+ORD10274,10-09-2023,Gaming Console,Gadgets,34524.22,3,103572.66,4.8,west,Debit card
+ORD10394,09-29-2022,Wireless Earbuds,Gadgets,60869.98,1,60869.98,3.9,NORTH,COD
+ORD10218,07-02-2025,Smartwatch Z,ELECTRONICS,67028.04,3,201084.12,4.4,south,UPI
+ORD10922,07-03-2022,Smartwatch Z,Electronics,93749.78,4,374999.12,3.2,South,UPI
+ORD11156,"Mar 19, 2023",Gaming Console,electronics,35808.4,4,143233.6,3.3,South,upi
+ORD11202,03-04-2024,Smartwatch Z,ELECTRONICS,42589.84,4,170359.36,3.9,south,Credit Card
+ORD10351,02-05-2024,Gaming Console,ELECTRONICS,69451.09,4,277804.36,2.4,NORTH,cod
+ORD10067,23-12-2025,Smartphone X,electronics,25382.71,4,101530.84,3.1,west,cod
+ORD10049,20-03-2023,Smartwatch Z,ELECTRONICS,58081.02,4,232324.08,6.9,NORTH,upi
+ORD10816,29-10-2022,Smartwatch Z,electronics,41208.23,2,82416.46,4.6,south,UPI
+ORD10076,05-23-2025,Smartphone X,electronics,34976.41,4,139905.64,2.5,south,Credit Card
+ORD10358,06-06-2023,Laptop Pro,ELECTRONICS,58592.36,3,175777.08,3.2,west,UPI
+ORD11225,"Oct 06, 2024",Laptop Pro,ELECTRONICS,45118.39,1,45118.39,4.1,NORTH,upi
+ORD10398,"Jul 21, 2024",Laptop Pro,ELECTRONICS,63895.22,1,63895.22,5,South,Debit card
+ORD10123,10-04-2024,Wireless Earbuds,electronics,40686.7,4,162746.8,4.4,East,UPI
+ORD10203,"Jan 16, 2022",Wireless Earbuds,Electronics,48217.6,3,144652.8,1.3,west,UPI
+ORD10220,21-08-2023,Wireless Earbuds,electronics,,3,142324.95,2.6,south,cod
+ORD11018,"May 10, 2025",Wireless Earbuds,Electronics,77574.19,2,155148.38,4.6,south,COD
+ORD11048,15-12-2023,Smartwatch Z,Gadgets,79194.64,1,79194.64,2.5,west,Credit Card
+ORD10925,05-12-2023,Smartwatch Z,electronics,30529.08,3,91587.24,3.2,NORTH,Debit card
+ORD10772,11-21-2024,Smartphone X,Electronics,31925.96,4,127703.84,1.4,South,Debit card
+ORD10585,"Jan 12, 2022",Gaming Console,electronics,32205.08,2,64410.16,4.7,East,upi
+ORD10944,07-15-2024,Wireless Earbuds,electronics,,4,188844.28,2.5,south,upi
+ORD10382,"Feb 06, 2022",Smartphone X,Electronics,27545.56,4,110182.24,1.3,East,upi
+ORD10115,09-06-2022,Smartwatch Z,Electronics,83027.02,3,249081.06,2,East,Credit Card
+ORD10479,03-01-2025,Gaming Console,ELECTRONICS,-38544.63,1,-38544.63,1.8,west,UPI
+ORD10342,11-02-2023,Smartwatch Z,Gadgets,31012.02,3,93036.06,4.8,East,Debit card
+ORD10620,"Aug 04, 2024",Smartwatch Z,Electronics,49453.91,4,197815.64,4.5,East,Debit card
+ORD10275,17-06-2025,Smartphone X,ELECTRONICS,25106.91,4,100427.64,,west,Credit Card
+ORD11263,"Nov 15, 2024",Laptop Pro,electronics,40307.42,1,40307.42,4.4,south,Debit card
+ORD11190,23-01-2024,Laptop Pro,Electronics,55370.68,1,55370.68,3.3,NORTH,upi
+ORD10948,03-31-2022,Laptop Pro,Gadgets,40935.03,1,40935.03,2.7,South,upi
+ORD10430,01-28-2022,Laptop Pro,Gadgets,63004.02,4,252016.08,4.4,west,COD
+ORD10576,05-17-2022,Laptop Pro,Electronics,31700.82,1,31700.82,4.3,west,Debit card
+ORD10712,04-09-2023,Gaming Console,Gadgets,49572.65,4,198290.6,1.2,East,cod
+ORD11047,29-01-2024,Wireless Earbuds,Electronics,44969.22,4,179876.88,4,East,Credit Card
+ORD10984,31-07-2023,Wireless Earbuds,Gadgets,33782.85,4,135131.4,2.3,East,COD
+ORD10380,26-07-2023,Smartwatch Z,electronics,46685.54,4,186742.16,4.5,East,cod
+ORD10936,02-24-2025,Smartphone X,Electronics,67017.96,4,268071.84,4.7,South,Debit card
+ORD10411,05-22-2025,Smartphone X,electronics,58008.24,2,116016.48,2.1,South,UPI
+ORD10706,"Jun 29, 2025",Smartphone X,ELECTRONICS,57095.57,4,228382.28,2.6,South,cod
+ORD10297,06-12-2024,Smartphone X,electronics,60333.39,4,241333.56,2.7,NORTH,cod
+ORD10534,11-14-2023,Wireless Earbuds,ELECTRONICS,65178.57,1,65178.57,3.6,South,Debit card
+ORD11174,05-01-2025,Gaming Console,Electronics,55612.73,1,55612.73,2.9,South,upi
+ORD10270,"Jun 13, 2023",Smartphone X,Electronics,44602.5,1,44602.5,3.2,South,COD
+ORD10051,02-07-2025,Smartwatch Z,electronics,49469.72,3,148409.16,3.4,south,Debit card
+ORD10847,"Jan 30, 2024",Smartwatch Z,electronics,68383.08,4,273532.32,4.2,East,upi
+ORD10371,20-02-2025,Wireless Earbuds,Electronics,50940.34,2,101880.68,2.4,South,Credit Card
+ORD10426,30-08-2023,Wireless Earbuds,Gadgets,21039.72,3,63119.16,3.1,East,UPI
+ORD11203,26-05-2023,Smartwatch Z,Gadgets,21888.66,3,65665.98,1.8,South,cod
+ORD10861,30-03-2025,Gaming Console,ELECTRONICS,58481.22,4,233924.88,3,South,Debit card
+ORD10970,"Sep 05, 2022",Smartwatch Z,Electronics,69773.38,3,209320.14,4.5,west,upi
+ORD11032,27-12-2024,Smartwatch Z,electronics,-2084.28,4,-8337.12,4.3,south,Debit card
+ORD10527,"Jul 25, 2023",Smartphone X,electronics,70196.34,1,70196.34,2.5,south,UPI
+ORD10231,10-10-2022,Wireless Earbuds,ELECTRONICS,52547.31,1,52547.31,1.6,NORTH,upi
+ORD11101,22-04-2024,Smartwatch Z,ELECTRONICS,55429.91,1,55429.91,1.6,East,cod
+ORD10610,10-20-2023,Smartphone X,Electronics,19314.03,4,77256.12,,East,UPI
+ORD10619,"Jun 26, 2024",Smartwatch Z,Gadgets,49381.22,1,49381.22,4.4,East,cod
+ORD10787,16-05-2023,Laptop Pro,Electronics,53809.99,1,53809.99,2.2,south,upi
+ORD11374,17-09-2025,Smartwatch Z,Electronics,41771.47,1,41771.47,2.1,South,cod
+ORD10168,20-11-2024,Wireless Earbuds,ELECTRONICS,50490.2,1,50490.2,1.9,south,COD
+ORD11210,"Jul 12, 2023",Smartwatch Z,Electronics,59264.13,2,118528.26,1.3,South,Debit card
+ORD10453,"Apr 20, 2022",Laptop Pro,ELECTRONICS,50753.2,1,50753.2,1.3,west,UPI
+ORD10711,"Oct 12, 2024",Laptop Pro,ELECTRONICS,,1,31543.4,4.1,west,Credit Card
+ORD10968,01-13-2023,Wireless Earbuds,ELECTRONICS,52037.13,4,208148.52,3.6,East,upi
+ORD11320,17-11-2022,Smartwatch Z,Gadgets,40999.74,3,122999.22,3.3,South,Debit card
+ORD11336,"Jun 02, 2025",Laptop Pro,ELECTRONICS,40631.32,4,162525.28,1.8,west,Credit Card
+ORD11066,01-31-2022,Smartphone X,Gadgets,48794.22,4,195176.88,3.2,East,upi
+ORD11061,"May 16, 2023",Laptop Pro,Electronics,65578.73,1,65578.73,4.8,South,Debit card
+ORD11026,07-19-2025,Wireless Earbuds,Electronics,,3,196756.44,4.4,East,Debit card
+ORD11149,04-12-2022,Smartphone X,Gadgets,109705.18,1,109705.18,3.7,East,COD
+ORD10945,"Jan 24, 2023",Gaming Console,ELECTRONICS,40996.21,4,163984.84,2.7,NORTH,upi
+ORD10529,27-08-2025,Laptop Pro,Electronics,72522.34,1,72522.34,2.4,NORTH,UPI
+ORD10029,16-10-2024,Wireless Earbuds,ELECTRONICS,69510.9,3,208532.7,2.2,west,COD
+ORD11307,27-07-2024,Laptop Pro,Electronics,36644.41,1,36644.41,2.9,South,Debit card
+ORD10551,01-29-2022,Wireless Earbuds,Gadgets,84991.53,4,339966.12,2.4,NORTH,UPI
+ORD11339,06-10-2025,Laptop Pro,Gadgets,27046.17,1,27046.17,2.8,west,Credit Card
+ORD10065,05-05-2024,Gaming Console,ELECTRONICS,32289.75,3,96869.25,4.5,South,Credit Card
+ORD10462,08-04-2025,Gaming Console,Gadgets,76347.88,2,152695.76,2.9,South,Debit card
+ORD10124,05-31-2024,Smartphone X,Gadgets,30369.83,4,121479.32,4.8,west,Debit card
+ORD11120,06-06-2024,Wireless Earbuds,ELECTRONICS,59993.7,3,179981.1,2.1,East,Debit card
+ORD10532,04-12-2025,Gaming Console,ELECTRONICS,63599.46,2,127198.92,3.9,south,cod
+ORD10882,06-11-2022,Wireless Earbuds,ELECTRONICS,55074.79,1,55074.79,2.8,East,UPI
+ORD11205,18-11-2023,Smartwatch Z,ELECTRONICS,40413.26,3,121239.78,3.6,NORTH,UPI
+ORD10240,06-25-2023,Laptop Pro,Gadgets,55595.15,1,55595.15,3.1,East,UPI
+ORD11384,01-04-2023,Smartwatch Z,ELECTRONICS,58066.01,1,58066.01,2.8,NORTH,COD
+ORD11033,31-12-2024,Gaming Console,Electronics,53978.96,3,161936.88,2.3,East,UPI
+ORD10567,10-26-2025,Smartphone X,Gadgets,29704.87,3,89114.61,1.3,NORTH,upi
+ORD10532,04-12-2025,Gaming Console,ELECTRONICS,63599.46,2,127198.92,3.9,south,cod
+ORD11043,08-28-2022,Laptop Pro,Electronics,27024.12,1,27024.12,2.7,NORTH,cod
+ORD10933,11-03-2022,Smartphone X,Gadgets,32657.4,1,32657.4,2.4,west,upi
+ORD10695,07-30-2025,Smartwatch Z,electronics,43915.52,2,87831.04,3.4,south,COD
+ORD10900,04-19-2022,Smartphone X,ELECTRONICS,41800.79,4,167203.16,,west,upi
+ORD10634,31-01-2024,Smartphone X,Electronics,33950.15,2,67900.3,5,NORTH,Debit card
+ORD10044,11-30-2022,Laptop Pro,ELECTRONICS,42157.84,4,168631.36,2.4,East,Debit card
+ORD10059,19-04-2024,Smartwatch Z,Electronics,93809.11,1,93809.11,2.3,NORTH,upi
+ORD10023,"Mar 21, 2024",Smartphone X,electronics,-32388.17,1,-32388.17,4.2,west,Credit Card
+ORD11052,08-21-2024,Laptop Pro,Electronics,18230.71,1,18230.71,1.5,south,upi
+ORD11000,08-26-2023,Smartphone X,ELECTRONICS,53254.89,4,213019.56,4.3,west,Debit card
+ORD10882,06-11-2022,Wireless Earbuds,ELECTRONICS,55074.79,1,55074.79,2.8,East,UPI
+ORD10175,"Jan 04, 2022",Smartwatch Z,electronics,13797.37,4,55189.48,4.9,East,Credit Card
+ORD11065,"Nov 06, 2023",Smartwatch Z,ELECTRONICS,48568.01,2,97136.02,3.8,NORTH,Debit card
+ORD10774,"Oct 19, 2022",Gaming Console,ELECTRONICS,41958.67,4,167834.68,1.3,south,COD
+ORD10451,16-03-2025,Gaming Console,Gadgets,26832.71,1,26832.71,3.2,South,UPI
+ORD11073,21-03-2025,Gaming Console,electronics,,2,-65488.96,3.7,west,UPI
+ORD11049,19-07-2025,Smartwatch Z,Gadgets,15597.95,3,46793.85,3.2,NORTH,cod
+ORD10590,09-05-2024,Gaming Console,Gadgets,51636.59,3,154909.77,3.7,west,UPI
+ORD11302,29-11-2023,Wireless Earbuds,Gadgets,60696.35,1,60696.35,1.9,South,Credit Card
+ORD10514,07-02-2022,Smartphone X,ELECTRONICS,34567.43,4,138269.72,6.2,South,Credit Card
+ORD11284,04-03-2025,Smartwatch Z,ELECTRONICS,-16495.11,3,-49485.33,3.6,south,Credit Card
+ORD10745,31-12-2024,Gaming Console,ELECTRONICS,21234.44,1,21234.44,3.3,south,Debit card
+ORD10909,"May 08, 2024",Smartphone X,ELECTRONICS,35101.95,3,105305.85,2.4,NORTH,Credit Card
+ORD10365,10-12-2025,Gaming Console,Electronics,43816.56,3,131449.68,2.4,west,COD
+ORD11364,"Mar 21, 2022",Wireless Earbuds,Gadgets,11843.85,3,35531.55,1.5,NORTH,COD
+ORD10078,30-05-2023,Laptop Pro,Gadgets,66441.2,4,265764.8,3,East,UPI
+ORD10898,"Nov 27, 2023",Laptop Pro,electronics,49625.82,1,49625.82,1.1,west,Debit card
+ORD10432,20-06-2024,Laptop Pro,Gadgets,67957.77,3,203873.31,4,south,UPI
+ORD10988,03-02-2023,Smartphone X,Electronics,33297.14,2,66594.28,,South,Debit card
+ORD11141,23-05-2023,Laptop Pro,Electronics,37755.27,two,113265.81,3.1,south,Debit card
+ORD10636,"Feb 16, 2022",Wireless Earbuds,ELECTRONICS,29061.78,3,87185.34,2.6,south,UPI
+ORD10427,19-07-2023,Laptop Pro,ELECTRONICS,6023.88,1,6023.88,3.8,south,UPI
+ORD10626,29-01-2023,Wireless Earbuds,electronics,48233.15,3,144699.45,3,west,UPI
+ORD10070,29-04-2023,Laptop Pro,electronics,75987.94,3,227963.82,4.4,south,upi
+ORD10015,31-01-2024,Smartphone X,ELECTRONICS,49889.44,2,99778.88,3.7,East,Credit Card
+ORD10244,"Sep 09, 2024",Smartphone X,Electronics,47028.97,2,94057.94,3.2,south,Debit card
+ORD10618,10-07-2024,Gaming Console,Electronics,30117.88,4,120471.52,3.6,NORTH,UPI
+ORD10141,05-01-2023,Smartphone X,Electronics,66270.19,1,66270.19,3,South,UPI
+ORD10277,07-27-2022,Laptop Pro,Gadgets,3505.61,2,7011.22,3.3,East,Debit card
+ORD10892,"Apr 26, 2024",Wireless Earbuds,Electronics,73879.13,3,221637.39,3.4,south,upi
+ORD10259,09-25-2024,Wireless Earbuds,ELECTRONICS,5393.4,1,5393.4,1.9,South,Credit Card
+ORD10823,01-08-2025,Wireless Earbuds,Gadgets,34956.87,4,139827.48,3.1,East,upi
+ORD10926,25-02-2025,Smartphone X,ELECTRONICS,26887.49,3,80662.47,3.9,west,cod
+ORD10261,"Nov 22, 2024",Laptop Pro,ELECTRONICS,66462.1,4,265848.4,3.5,South,COD
+ORD10678,27-06-2025,Wireless Earbuds,electronics,83621.85,1,83621.85,1.1,south,Credit Card
+ORD11312,11-04-2023,Wireless Earbuds,electronics,38012.67,4,152050.68,1.9,NORTH,Credit Card
+ORD10306,07-01-2024,Laptop Pro,Gadgets,21849.77,2,43699.54,3.1,south,Credit Card
+ORD11030,"Aug 02, 2024",Smartphone X,electronics,38985.58,3,116956.74,1.1,South,Debit card
+ORD11128,20-01-2025,Smartphone X,Electronics,-23227.88,4,-92911.52,4.3,South,COD
+ORD10989,09-29-2024,Wireless Earbuds,ELECTRONICS,91790.77,2,183581.54,3.1,East,UPI
+ORD11094,"Sep 03, 2023",Laptop Pro,ELECTRONICS,48332.31,2,96664.62,3.8,south,cod
+ORD10885,06-02-2024,Laptop Pro,ELECTRONICS,55602.43,1,55602.43,4.5,south,upi
+ORD10756,26-02-2024,Wireless Earbuds,ELECTRONICS,28752.13,2,57504.26,4.9,west,Debit card
+ORD10615,"Feb 14, 2025",Laptop Pro,ELECTRONICS,65243.97,2,130487.94,2.9,East,Debit card
+ORD10931,"Aug 15, 2023",Laptop Pro,ELECTRONICS,50307.58,1,50307.58,1.3,South,cod
+ORD10940,07-11-2024,Smartphone X,ELECTRONICS,69307.95,1,69307.95,2.1,East,UPI
+ORD10344,25-02-2022,Smartwatch Z,Electronics,62151.34,3,186454.02,4.4,East,UPI
+ORD10043,"Oct 20, 2025",Wireless Earbuds,electronics,53511.07,2,107022.14,1.4,west,upi
+ORD11116,09-10-2022,Gaming Console,ELECTRONICS,31676.16,4,126704.64,2.4,west,Credit Card
+ORD10865,30-09-2022,Laptop Pro,electronics,81972.94,2,163945.88,1.5,East,Credit Card
+ORD11308,01-07-2024,Wireless Earbuds,electronics,81820.39,two,327281.56,3.5,NORTH,UPI
+ORD10752,23-07-2022,Smartphone X,electronics,30897.55,4,123590.2,4.2,west,Debit card
+ORD10101,22-12-2025,Laptop Pro,Gadgets,51637.48,2,103274.96,2.1,East,UPI
+ORD10107,"Jun 11, 2024",Smartphone X,electronics,,4,347473.12,4.9,South,COD
+ORD10601,23-04-2025,Smartwatch Z,ELECTRONICS,60593.86,4,242375.44,2.2,South,cod
+ORD11037,27-04-2022,Smartwatch Z,electronics,56393.04,3,169179.12,1.5,NORTH,UPI
+ORD10874,"Mar 10, 2022",Gaming Console,Gadgets,10414,4,41656,3.3,west,cod
+ORD10721,11-09-2024,Laptop Pro,Electronics,,3,184023.33,4.9,NORTH,cod
+ORD10777,03-23-2022,Wireless Earbuds,Electronics,88778.58,1,88778.58,2.2,west,Debit card
+ORD10416,30-08-2023,Smartphone X,electronics,-74179.64,2,-148359.28,4,south,Debit card
+ORD11121,29-06-2024,Smartphone X,electronics,59440.05,4,237760.2,1.8,south,upi
+ORD10128,06-10-2025,Smartphone X,Electronics,92660.67,1,92660.67,3.5,south,UPI
+ORD10741,12-04-2023,Smartwatch Z,Electronics,35282.83,3,105848.49,1.4,East,upi
+ORD10756,26-02-2024,Wireless Earbuds,ELECTRONICS,28752.13,2,57504.26,4.9,west,Debit card
+ORD10664,"Jan 14, 2022",Laptop Pro,electronics,-75795.06,3,-227385.18,1.6,East,COD
+ORD10244,"Sep 09, 2024",Smartphone X,Electronics,47028.97,2,94057.94,3.2,south,Debit card
+ORD10247,"Mar 25, 2025",Laptop Pro,Gadgets,38462.16,1,38462.16,4,South,UPI
+ORD11221,31-03-2022,Smartwatch Z,Gadgets,19288.56,3,57865.68,5,south,UPI
+ORD11100,07-24-2022,Smartphone X,Gadgets,70353.23,1,70353.23,1.5,west,cod
+ORD10428,12-27-2025,Smartphone X,ELECTRONICS,-72437.06,3,-217311.18,4.5,west,COD
+ORD10032,13-10-2025,Smartphone X,electronics,57232.72,1,57232.72,3.9,NORTH,COD
+ORD11318,03-04-2025,Smartwatch Z,Gadgets,54983.57,4,219934.28,4.7,west,UPI
+ORD10591,28-02-2025,Wireless Earbuds,Electronics,48022.21,2,96044.42,4.5,South,upi
+ORD10353,"Jun 05, 2025",Smartphone X,Electronics,45475.1,3,136425.3,3.9,NORTH,Credit Card
+ORD10423,07-26-2022,Smartphone X,ELECTRONICS,57544.24,1,57544.24,1.1,south,Debit card
+ORD11029,03-23-2025,Laptop Pro,ELECTRONICS,80223.1,1,80223.1,3.4,NORTH,Credit Card
+ORD10309,11-03-2024,Laptop Pro,Electronics,34546.66,1,34546.66,1.9,East,COD
+ORD11231,08-09-2022,Wireless Earbuds,Gadgets,90400.98,1,90400.98,3.3,south,Debit card
+ORD10271,04-11-2023,Laptop Pro,Gadgets,30424.73,1,30424.73,1.9,East,cod
+ORD10907,03-21-2025,Gaming Console,ELECTRONICS,58993.12,3,176979.36,3,South,Credit Card
+ORD10471,01-05-2023,Laptop Pro,ELECTRONICS,61285.55,2,122571.1,1.1,South,upi
+ORD10163,"May 17, 2022",Smartphone X,Electronics,,4,133821.52,5.8,NORTH,UPI
+ORD10184,13-03-2022,Smartwatch Z,electronics,18111.45,4,72445.8,1.3,NORTH,UPI
+ORD10579,"Jan 03, 2023",Wireless Earbuds,Electronics,62182.76,3,186548.28,2.6,NORTH,upi
+ORD10630,"Dec 21, 2022",Wireless Earbuds,Electronics,51772.93,1,51772.93,1.2,South,Debit card
+ORD10772,11-21-2024,Smartphone X,Electronics,31925.96,4,127703.84,1.4,South,Debit card
+ORD10792,"Jan 03, 2024",Laptop Pro,ELECTRONICS,56790.29,1,56790.29,1.3,south,upi
+ORD10566,"Dec 29, 2022",Gaming Console,ELECTRONICS,38366.38,3,115099.14,2.4,South,Credit Card
+ORD10433,08-07-2024,Gaming Console,Electronics,45868.66,3,137605.98,,south,upi
+ORD11119,14-08-2022,Smartphone X,ELECTRONICS,69941.88,3,209825.64,4.4,south,upi
+ORD11303,03-02-2022,Smartphone X,Gadgets,74579.61,4,298318.44,2.8,South,Credit Card
+ORD11179,15-09-2025,Smartphone X,electronics,48729.51,2,97459.02,4.6,East,Credit Card
+ORD10192,"Jan 24, 2023",Gaming Console,electronics,53399.46,1,53399.46,1.4,NORTH,UPI
+ORD10906,05-07-2022,Smartphone X,Electronics,61690.06,2,123380.12,1.4,south,COD
+ORD10303,30-04-2024,Smartwatch Z,ELECTRONICS,52128.6,2,104257.2,3.1,west,Credit Card
+ORD11133,11-04-2023,Smartwatch Z,ELECTRONICS,49091.78,3,147275.34,1.2,south,upi
+ORD10063,04-06-2022,Smartphone X,Gadgets,59471.85,3,178415.55,4.7,East,Debit card
+ORD10824,04-06-2024,Gaming Console,ELECTRONICS,57547.01,1,57547.01,4.3,NORTH,upi
+ORD10881,10-29-2024,Smartphone X,Electronics,38645.88,3,115937.64,4.9,south,upi
+ORD11344,01-16-2024,Wireless Earbuds,Electronics,31021.67,2,62043.34,4.4,South,COD
+ORD10239,10-03-2024,Wireless Earbuds,ELECTRONICS,82392.24,1,82392.24,5.7,NORTH,Credit Card
+ORD11220,20-12-2025,Smartphone X,electronics,59385.35,4,237541.4,4.9,south,Debit card
+ORD10490,05-25-2023,Gaming Console,ELECTRONICS,8096.85,2,16193.7,1.6,west,COD
+ORD10706,"Jun 29, 2025",Smartphone X,ELECTRONICS,57095.57,4,228382.28,2.6,South,cod
+ORD10198,11-08-2024,Gaming Console,Gadgets,80047.14,4,320188.56,2.2,NORTH,cod
+ORD10974,12-01-2025,Laptop Pro,ELECTRONICS,42083.42,1,42083.42,4.7,South,Debit card
+ORD11096,02-01-2023,Smartwatch Z,Gadgets,-24008.38,2,-48016.76,3.8,NORTH,COD
+ORD11146,"Mar 01, 2022",Wireless Earbuds,Gadgets,64152.73,1,64152.73,2.3,west,UPI
+ORD10544,04-27-2024,Laptop Pro,Electronics,53209.52,2,106419.04,4.7,East,upi
+ORD10429,06-22-2022,Laptop Pro,electronics,76210.88,2,152421.76,1.6,west,UPI
+ORD10030,14-09-2025,Laptop Pro,electronics,73594.33,4,294377.32,,South,Debit card
+ORD10056,10-26-2023,Laptop Pro,ELECTRONICS,34493.28,3,103479.84,4.2,south,UPI
+ORD11193,02-04-2023,Laptop Pro,electronics,65781.13,4,263124.52,1.6,East,Debit card
+ORD10852,28-10-2024,Smartwatch Z,electronics,28180.67,1,28180.67,3.6,south,Debit card
+ORD11249,28-11-2022,Smartwatch Z,Electronics,67079.52,4,268318.08,4.8,south,UPI
+ORD11357,27-05-2023,Smartwatch Z,electronics,55774.47,4,223097.88,1,East,COD
+ORD11199,"May 21, 2023",Wireless Earbuds,Gadgets,56211.83,4,224847.32,2.9,west,UPI
+ORD10310,06-03-2025,Gaming Console,electronics,64433.44,1,64433.44,3.4,East,COD
+ORD10862,16-02-2025,Laptop Pro,ELECTRONICS,47957.43,3,143872.29,1.8,NORTH,Debit card
+ORD11214,13-05-2023,Laptop Pro,Electronics,29828.91,1,29828.91,2.9,west,cod
+ORD10744,17-01-2023,Gaming Console,electronics,52265.41,4,209061.64,2.4,west,COD
+ORD10886,"Jan 12, 2025",Laptop Pro,ELECTRONICS,57542.01,4,230168.04,4,East,COD
+ORD10602,25-02-2022,Wireless Earbuds,ELECTRONICS,-7765.42,4,-31061.68,4.4,South,Debit card
+ORD10819,"Jun 17, 2025",Gaming Console,electronics,48337.89,4,193351.56,1.8,south,cod
+ORD10428,12-27-2025,Smartphone X,ELECTRONICS,-72437.06,3,-217311.18,4.5,west,COD
+ORD10811,"Sep 08, 2025",Gaming Console,Electronics,64842.55,4,259370.2,1.4,west,COD
+ORD10099,02-10-2025,Gaming Console,Gadgets,53523.62,2,107047.24,1.4,South,upi
+ORD10930,14-12-2024,Gaming Console,electronics,,4,149904.8,3.4,south,cod
+ORD10439,02-03-2025,Smartwatch Z,Gadgets,76583.05,4,306332.2,4.7,South,Debit card
+ORD11316,06-04-2025,Laptop Pro,electronics,73992.76,1,73992.76,6.5,west,COD
+ORD10218,07-02-2025,Smartwatch Z,ELECTRONICS,67028.04,3,201084.12,4.4,south,UPI
+ORD10899,"Dec 30, 2023",Wireless Earbuds,Gadgets,42229.63,3,126688.89,3.8,NORTH,COD
+ORD10864,"Sep 08, 2024",Wireless Earbuds,Gadgets,44824.08,2,89648.16,1.5,NORTH,UPI
+ORD11001,"Aug 22, 2022",Smartphone X,electronics,50827.58,1,50827.58,6.9,south,upi
+ORD10552,11-04-2022,Smartphone X,Gadgets,64943.3,2,129886.6,3.9,South,upi
+ORD10720,"Apr 27, 2024",Smartwatch Z,electronics,27792.01,4,111168.04,2.4,South,cod
+ORD10049,20-03-2023,Smartwatch Z,ELECTRONICS,58081.02,4,232324.08,6.9,NORTH,upi
+ORD10704,10-02-2022,Laptop Pro,electronics,49449.7,1,49449.7,4.1,South,upi
+ORD10946,12-03-2025,Wireless Earbuds,electronics,21170.36,2,42340.72,4.1,South,Debit card
+ORD10506,16-08-2023,Smartwatch Z,Gadgets,31230.64,3,93691.92,1.6,NORTH,COD
+ORD10654,17-12-2024,Smartwatch Z,Gadgets,66751.25,1,66751.25,4.9,South,UPI
+ORD10237,"Mar 01, 2024",Laptop Pro,Gadgets,65107.82,2,130215.64,4.7,west,Credit Card
+ORD10937,19-04-2025,Smartphone X,Electronics,47252.56,3,141757.68,1.4,South,UPI
+ORD10070,29-04-2023,Laptop Pro,electronics,75987.94,3,227963.82,4.4,south,upi
+ORD10806,30-05-2024,Smartwatch Z,electronics,-4064.65,4,-16258.6,4.6,South,upi
+ORD10724,10-02-2025,Gaming Console,electronics,62659.24,3,187977.72,3.2,East,COD
+ORD10361,23-02-2025,Smartphone X,Gadgets,45734.55,1,45734.55,6.7,South,UPI
+ORD10236,11-15-2023,Laptop Pro,Electronics,38464.57,4,153858.28,3.9,west,COD
+ORD10322,17-08-2023,Smartphone X,electronics,24391.41,2,48782.82,2.5,South,Credit Card
+ORD11048,15-12-2023,Smartwatch Z,Gadgets,79194.64,1,79194.64,2.5,west,Credit Card
+ORD10932,04-28-2024,Laptop Pro,Gadgets,,1,66501.97,4.7,South,UPI
+ORD10044,11-30-2022,Laptop Pro,ELECTRONICS,42157.84,4,168631.36,2.4,East,Debit card
+ORD10737,26-02-2022,Smartphone X,Electronics,51899.88,4,207599.52,4.5,NORTH,cod
+ORD11117,"Apr 09, 2022",Smartwatch Z,electronics,33363.56,2,66727.12,3.9,South,COD
+ORD10543,18-06-2023,Laptop Pro,ELECTRONICS,30633.11,3,91899.33,3.8,south,UPI
+ORD10208,07-11-2022,Laptop Pro,Electronics,33690.02,1,33690.02,3.2,South,UPI
+ORD11217,10-12-2025,Smartphone X,ELECTRONICS,18703.94,two,74815.76,2.3,NORTH,COD
+ORD10367,08-28-2024,Gaming Console,ELECTRONICS,52699.69,4,210798.76,4.2,South,upi
+ORD10584,"Aug 29, 2023",Smartphone X,Electronics,28588.11,2,57176.22,2.5,NORTH,Debit card
+ORD10058,09-01-2024,Smartwatch Z,Electronics,61737.14,4,246948.56,4.2,NORTH,UPI
+ORD10289,"Sep 24, 2023",Laptop Pro,ELECTRONICS,38343.99,3,115031.97,2.6,south,UPI
+ORD10332,08-31-2023,Smartphone X,Gadgets,40617.05,2,81234.1,1.6,East,upi
+ORD10381,09-02-2022,Smartwatch Z,electronics,33488.3,4,133953.2,2.9,South,upi
+ORD11057,16-05-2023,Wireless Earbuds,Gadgets,85904.23,2,171808.46,3.9,South,COD
+ORD11168,06-09-2023,Smartwatch Z,Gadgets,40542.97,1,40542.97,3.7,south,Credit Card
+ORD11192,07-03-2024,Wireless Earbuds,Electronics,64090.13,3,192270.39,3.7,south,Debit card
+ORD10888,06-16-2023,Wireless Earbuds,ELECTRONICS,21038.87,1,21038.87,3.3,south,Debit card
+ORD10796,21-11-2024,Gaming Console,Gadgets,71002.21,4,284008.84,1.3,East,Credit Card
+ORD11075,08-03-2023,Gaming Console,ELECTRONICS,65441.9,2,130883.8,4.3,East,Credit Card
+ORD11138,04-01-2022,Smartphone X,electronics,60854.09,3,182562.27,3.9,East,Credit Card
+ORD11090,25-05-2025,Wireless Earbuds,ELECTRONICS,27834.85,3,83504.55,3.4,south,Credit Card
+ORD11157,09-02-2025,Smartwatch Z,Electronics,24829.9,2,49659.8,3.1,NORTH,UPI
+ORD10233,"Jul 26, 2025",Wireless Earbuds,electronics,40257.49,2,80514.98,1.7,NORTH,UPI
+ORD11054,"Jul 03, 2022",Wireless Earbuds,electronics,89913.35,4,359653.4,4.9,NORTH,UPI
+ORD10196,04-30-2025,Smartphone X,Electronics,15382.54,two,46147.62,1.4,south,cod
+ORD11348,"Aug 30, 2024",Wireless Earbuds,ELECTRONICS,39420.45,1,39420.45,4.5,west,Credit Card
+ORD10081,07-09-2024,Gaming Console,electronics,45208.11,1,45208.11,3,west,Debit card
+ORD11386,21-08-2025,Wireless Earbuds,Gadgets,44229.03,1,44229.03,3.1,NORTH,Debit card
+ORD11140,18-10-2022,Smartphone X,Electronics,43373.83,4,173495.32,4.7,west,cod
+ORD10111,05-09-2023,Gaming Console,electronics,83226.03,3,249678.09,2,west,cod
+ORD11258,"Mar 16, 2023",Smartphone X,Gadgets,-32088.88,3,-96266.64,1.5,south,COD
+ORD11265,07-01-2023,Gaming Console,electronics,46446.12,2,92892.24,2.1,NORTH,upi
+ORD10953,"May 16, 2023",Smartphone X,Gadgets,66357.79,4,265431.16,4,South,UPI
+ORD10826,19-03-2022,Laptop Pro,Gadgets,43618.92,3,130856.76,3.3,South,upi
+ORD11247,27-04-2024,Smartphone X,Electronics,59473.86,2,118947.72,4.1,South,COD
+ORD11099,16-06-2025,Smartwatch Z,electronics,70273.51,3,210820.53,2.1,South,COD
+ORD10727,24-06-2025,Smartphone X,Gadgets,63862.11,1,63862.11,3.2,NORTH,UPI
+ORD10965,14-10-2022,Wireless Earbuds,ELECTRONICS,72286.43,1,72286.43,3.1,west,Debit card
+ORD10990,04-03-2025,Smartphone X,electronics,50076.06,1,50076.06,4.8,East,cod
+ORD11097,09-30-2025,Smartwatch Z,Electronics,66594.65,2,133189.3,2,south,COD
+ORD11031,15-06-2022,Smartphone X,Electronics,29475.61,2,58951.22,1.3,South,upi
+ORD10324,12-16-2024,Wireless Earbuds,Gadgets,69436.45,4,277745.8,1.7,NORTH,COD
+ORD10346,25-06-2025,Laptop Pro,Electronics,72985.47,1,72985.47,2.4,west,COD
+ORD11006,09-22-2025,Smartphone X,Electronics,54643.12,2,109286.24,4.4,NORTH,cod
+ORD11229,12-09-2024,Smartwatch Z,Gadgets,76578.67,3,229736.01,,west,upi
+ORD10316,24-08-2022,Gaming Console,Electronics,36855.33,4,147421.32,1.3,South,Credit Card
+ORD10405,"Feb 24, 2023",Gaming Console,Gadgets,60145.48,4,240581.92,3.5,west,COD
+ORD10478,24-05-2023,Smartwatch Z,ELECTRONICS,17340.95,3,52022.85,2.1,South,Debit card
+ORD10598,18-09-2024,Gaming Console,ELECTRONICS,-514.37,1,-514.37,3.7,South,UPI
+ORD11178,04-01-2023,Smartphone X,ELECTRONICS,33999.23,two,67998.46,3.6,west,COD
+ORD10528,10-11-2022,Laptop Pro,Electronics,51182.84,2,102365.68,4.7,South,UPI
+ORD11189,"Oct 13, 2022",Wireless Earbuds,Gadgets,27246.29,3,81738.87,,west,upi
+ORD11005,"May 15, 2025",Wireless Earbuds,electronics,46181.92,3,138545.76,3.7,South,Debit card
+ORD10736,03-02-2024,Laptop Pro,Gadgets,21077.44,1,21077.44,3.6,NORTH,Credit Card
+ORD10254,24-08-2024,Smartwatch Z,ELECTRONICS,43630.43,1,43630.43,1.9,South,upi
+ORD11079,02-11-2025,Gaming Console,ELECTRONICS,19698.09,4,78792.36,2.6,south,UPI
+ORD10650,21-06-2025,Smartphone X,Gadgets,40323.78,4,161295.12,3,NORTH,Debit card
+ORD10855,"Aug 20, 2025",Laptop Pro,ELECTRONICS,41396.87,2,82793.74,3.5,south,COD
+ORD11124,07-14-2025,Gaming Console,Electronics,63666.58,2,127333.16,4.2,south,Debit card
+ORD10415,"Feb 21, 2025",Smartphone X,electronics,54272.61,3,162817.83,6.9,west,cod
+ORD10086,"Jan 05, 2024",Smartphone X,ELECTRONICS,45530.74,1,45530.74,4.8,NORTH,UPI
+ORD10478,24-05-2023,Smartwatch Z,ELECTRONICS,17340.95,3,52022.85,2.1,South,Debit card
+ORD10265,04-15-2022,Smartphone X,Electronics,51641.1,1,51641.1,2.2,South,COD
+ORD10287,"Aug 11, 2024",Laptop Pro,Electronics,71883.83,3,215651.49,1.2,west,upi
+ORD10464,03-05-2022,Smartphone X,Gadgets,42609.57,2,85219.14,3.4,NORTH,UPI
+ORD10993,02-17-2022,Wireless Earbuds,electronics,77456.97,3,232370.91,1.2,west,Credit Card
+ORD11114,12-16-2022,Gaming Console,electronics,57183.66,3,171550.98,1.1,NORTH,cod
+ORD11379,05-06-2023,Wireless Earbuds,electronics,30354.12,1,30354.12,3.9,west,upi
+ORD10714,"Nov 21, 2024",Smartphone X,ELECTRONICS,1515.19,3,4545.57,1.3,East,UPI
+ORD10221,01-27-2025,Laptop Pro,Electronics,30889.19,4,123556.76,2.1,west,COD
+ORD10113,"Jan 28, 2024",Laptop Pro,Electronics,58099.63,1,58099.63,4.8,NORTH,cod
+ORD11175,"Aug 28, 2025",Smartphone X,Electronics,85172.41,2,170344.82,4.4,west,Credit Card
+ORD11398,19-08-2022,Smartphone X,Electronics,53037.55,2,106075.1,5.3,East,Debit card
+ORD10174,"Dec 24, 2024",Gaming Console,electronics,70652.01,4,282608.04,2.4,East,cod
+ORD10522,"Sep 28, 2024",Gaming Console,electronics,46538.56,3,139615.68,3.5,west,Debit card
+ORD10339,02-01-2025,Laptop Pro,Electronics,35485.12,3,106455.36,2,NORTH,COD
+ORD11160,"Aug 29, 2024",Smartwatch Z,Electronics,52251.01,1,52251.01,,South,cod
+ORD10982,30-07-2025,Laptop Pro,electronics,,4,226056.6,4.6,East,upi
+ORD10952,09-06-2022,Wireless Earbuds,electronics,18924.82,4,75699.28,4.7,South,Credit Card
+ORD10285,09-10-2024,Smartphone X,Gadgets,65621.47,2,131242.94,4.4,East,upi
+ORD10857,26-07-2025,Laptop Pro,Gadgets,45815.56,1,45815.56,3.7,west,Debit card
+ORD10413,12-07-2025,Smartphone X,Gadgets,50928.73,2,101857.46,3.5,west,COD
+ORD11382,11-24-2025,Laptop Pro,ELECTRONICS,38269.37,3,114808.11,1.9,south,Debit card
+ORD10031,"Jul 24, 2023",Smartphone X,ELECTRONICS,32035.84,3,96107.52,,west,upi
+ORD10538,"Oct 18, 2024",Wireless Earbuds,electronics,30228.18,3,90684.54,,South,UPI
+ORD10210,17-12-2024,Smartwatch Z,ELECTRONICS,38927.01,2,77854.02,5.7,East,cod
+ORD10939,"Feb 03, 2023",Gaming Console,electronics,89633.84,1,89633.84,3.8,South,UPI
+ORD10420,13-11-2023,Wireless Earbuds,Electronics,13800.82,2,27601.64,,west,upi
+ORD10785,05-01-2022,Smartphone X,electronics,48731.08,1,48731.08,1.2,East,upi
+ORD10422,"Nov 15, 2025",Smartwatch Z,Gadgets,38821.56,1,38821.56,2.5,west,UPI
+ORD10904,"Dec 16, 2024",Wireless Earbuds,ELECTRONICS,60300.85,1,60300.85,6.9,South,upi
+ORD10350,"Oct 22, 2025",Gaming Console,electronics,62648.15,2,125296.3,1,NORTH,cod
+ORD10188,02-07-2023,Laptop Pro,electronics,22628.2,1,22628.2,4,west,cod
+ORD10354,08-09-2022,Wireless Earbuds,Electronics,61195.81,2,122391.62,3.5,East,Credit Card
+ORD10908,09-25-2025,Wireless Earbuds,Gadgets,46738.66,2,93477.32,1.1,NORTH,UPI
+ORD10967,02-20-2022,Smartwatch Z,electronics,53844.7,4,215378.8,2.2,NORTH,COD
+ORD11327,20-10-2022,Wireless Earbuds,ELECTRONICS,55044.81,3,165134.43,3.4,west,upi
+ORD11063,03-20-2023,Gaming Console,ELECTRONICS,48502.48,4,194009.92,3.9,NORTH,Credit Card
+ORD10083,"Feb 03, 2022",Smartphone X,electronics,104403.38,4,417613.52,2.1,NORTH,Debit card
+ORD11134,09-03-2024,Wireless Earbuds,electronics,65863.39,3,197590.17,,south,UPI
+ORD10048,06-02-2024,Gaming Console,Electronics,46774.29,4,187097.16,3.2,South,cod
+ORD10155,03-06-2025,Wireless Earbuds,Gadgets,54076.45,2,108152.9,1.3,East,Debit card
+ORD10669,01-11-2022,Laptop Pro,Gadgets,61771.57,two,123543.14,3.5,South,cod
+ORD11125,06-08-2023,Wireless Earbuds,Gadgets,45813.72,3,137441.16,,East,COD
+ORD11131,01-16-2024,Smartphone X,Electronics,53684.96,3,161054.88,2.2,NORTH,UPI
+ORD11042,14-01-2024,Smartphone X,Electronics,63587.47,3,190762.41,2.7,west,Credit Card
+ORD11142,29-10-2025,Wireless Earbuds,Electronics,7103.95,3,21311.85,1.3,South,UPI
+ORD11211,"May 03, 2025",Wireless Earbuds,Gadgets,22657.24,1,22657.24,4.3,South,Credit Card
+ORD10198,11-08-2024,Gaming Console,Gadgets,80047.14,4,320188.56,2.2,NORTH,cod
+ORD10497,25-06-2022,Smartwatch Z,ELECTRONICS,54775.78,4,219103.12,2.1,west,COD
+ORD10179,11-06-2024,Smartphone X,electronics,79533.17,2,159066.34,4.5,south,Debit card
+ORD10374,22-06-2022,Wireless Earbuds,electronics,16363.59,1,16363.59,3.9,west,UPI
+ORD11228,26-08-2025,Wireless Earbuds,Electronics,62441.4,4,249765.6,2.2,south,COD
+ORD10631,08-19-2023,Smartphone X,Gadgets,84442.57,4,337770.28,1.3,west,cod
+ORD10493,"May 14, 2022",Smartwatch Z,electronics,67004.43,4,268017.72,1.1,South,upi
+ORD11053,"Sep 01, 2023",Gaming Console,Electronics,65858.7,1,65858.7,1.4,East,cod
+ORD10363,"Jan 20, 2023",Laptop Pro,electronics,67730.35,2,135460.7,3.4,NORTH,upi
+ORD11161,08-08-2025,Wireless Earbuds,electronics,58900.72,1,58900.72,2.7,East,COD
+ORD11181,20-03-2025,Wireless Earbuds,Electronics,68813.92,3,206441.76,1.3,South,upi
+ORD10346,25-06-2025,Laptop Pro,Electronics,72985.47,1,72985.47,2.4,west,COD
+ORD11328,"Dec 30, 2025",Wireless Earbuds,ELECTRONICS,26554.79,2,53109.58,3.5,west,COD
+ORD10464,03-05-2022,Smartphone X,Gadgets,42609.57,2,85219.14,3.4,NORTH,UPI
+ORD10573,"Nov 20, 2022",Laptop Pro,ELECTRONICS,88930.86,4,355723.44,1.2,East,COD
+ORD10554,"Sep 09, 2025",Laptop Pro,Electronics,36530.19,4,146120.76,1.6,west,COD
+ORD10614,02-07-2022,Wireless Earbuds,electronics,67572.87,2,135145.74,2,west,cod
+ORD10243,08-16-2023,Laptop Pro,Gadgets,16769.6,1,16769.6,3.1,west,Debit card
+ORD10780,09-12-2024,Smartphone X,Electronics,25758.2,1,25758.2,4.5,south,Credit Card
+ORD10526,"Sep 09, 2025",Laptop Pro,electronics,82840.3,2,165680.6,4,East,Credit Card
+ORD10743,29-11-2025,Smartwatch Z,electronics,60108.48,1,60108.48,4.9,South,cod
+ORD11300,14-08-2023,Wireless Earbuds,Electronics,-36352.18,2,-72704.36,,South,COD
+ORD10798,"Aug 13, 2024",Laptop Pro,electronics,69006.15,1,69006.15,5,west,COD
+ORD10115,09-06-2022,Smartwatch Z,Electronics,83027.02,3,249081.06,2,East,Credit Card
+ORD10674,10-11-2024,Smartwatch Z,ELECTRONICS,40916.21,4,163664.84,3,South,cod
+ORD10570,03-09-2023,Smartphone X,Electronics,-56617.6,2,-113235.2,1.9,South,Debit card
+ORD11287,02-14-2025,Gaming Console,Electronics,31510.68,4,126042.72,1.5,west,UPI
+ORD10370,18-04-2023,Smartphone X,electronics,64267.99,3,192803.97,1.3,west,UPI
+ORD10054,02-18-2025,Smartwatch Z,electronics,49305.76,4,197223.04,3.2,west,Debit card
+ORD10589,"Dec 31, 2025",Gaming Console,electronics,50625.34,4,202501.36,4.4,East,Credit Card
+ORD11080,02-02-2025,Gaming Console,Gadgets,39283.97,3,117851.91,3.7,south,Debit card
+ORD10312,"Aug 25, 2024",Gaming Console,ELECTRONICS,60009.55,3,180028.65,3.9,south,Debit card
+ORD10893,"Mar 31, 2025",Smartwatch Z,Electronics,43262.04,3,129786.12,,west,upi
+ORD10109,02-13-2025,Gaming Console,electronics,53729.09,3,161187.27,2.8,East,upi
+ORD10425,"Oct 12, 2023",Gaming Console,Electronics,9295.2,3,27885.6,2.8,south,cod
+ORD10100,05-03-2022,Gaming Console,ELECTRONICS,40292.73,1,40292.73,1.6,South,cod
+ORD10599,04-08-2022,Gaming Console,electronics,51279.14,2,102558.28,1.3,south,upi
+ORD10651,09-05-2025,Wireless Earbuds,Gadgets,-43370.87,1,-43370.87,3.6,south,COD
+ORD10266,"Dec 21, 2025",Wireless Earbuds,electronics,-66606.72,2,-133213.44,1.8,South,Debit card
+ORD10660,03-14-2022,Laptop Pro,Gadgets,74765.66,1,74765.66,2.7,south,cod
+ORD10296,04-18-2024,Smartwatch Z,Electronics,29656.16,4,118624.64,2.8,NORTH,cod
+ORD10917,30-10-2024,Smartwatch Z,ELECTRONICS,37401.89,3,112205.67,4.6,South,cod
+ORD10916,03-10-2023,Smartwatch Z,ELECTRONICS,67458.38,2,134916.76,1.6,East,COD
+ORD10679,23-11-2023,Gaming Console,Electronics,34981.89,2,69963.78,2.4,South,cod
+ORD10921,05-23-2024,Laptop Pro,electronics,-74062.25,3,-222186.75,,South,Debit card
+ORD10377,12-10-2024,Smartwatch Z,ELECTRONICS,31626.96,1,31626.96,1.2,South,Credit Card
+ORD10286,02-08-2022,Gaming Console,Electronics,51114.5,4,204458,3.4,East,cod
+ORD10078,30-05-2023,Laptop Pro,Gadgets,66441.2,4,265764.8,3,East,UPI
+ORD10710,"Feb 03, 2023",Wireless Earbuds,Electronics,,2,66388.74,2.7,NORTH,UPI
+ORD10126,"Feb 11, 2023",Gaming Console,electronics,62943.25,4,251773,3.7,East,UPI
+ORD10327,11-17-2024,Smartphone X,ELECTRONICS,15796.63,1,15796.63,1.6,East,UPI
+ORD10292,"Feb 28, 2023",Laptop Pro,Electronics,19944.7,4,79778.8,4.7,NORTH,cod
+ORD10535,"Feb 13, 2024",Smartwatch Z,ELECTRONICS,55623.83,3,166871.49,1.2,East,cod
+ORD10707,12-11-2025,Gaming Console,ELECTRONICS,28042.75,two,112171,3.6,East,Debit card
+ORD10629,29-04-2023,Gaming Console,electronics,81230.22,1,81230.22,1.6,south,Credit Card
+ORD10355,"Nov 23, 2024",Wireless Earbuds,ELECTRONICS,71615.61,two,286462.44,2,NORTH,cod
+ORD10170,09-02-2022,Smartwatch Z,Gadgets,,4,296032.92,3.9,west,Debit card
+ORD11185,04-06-2025,Wireless Earbuds,electronics,62394.23,2,124788.46,2.5,South,Credit Card
+ORD11058,10-04-2024,Gaming Console,Electronics,41547.33,3,124641.99,1.2,west,UPI
+ORD11255,30-10-2023,Wireless Earbuds,ELECTRONICS,47019.9,3,141059.7,4.5,NORTH,UPI
+ORD10209,22-10-2023,Smartwatch Z,ELECTRONICS,,1,38819.49,2.8,west,upi
+ORD10808,08-03-2024,Wireless Earbuds,ELECTRONICS,67716.06,1,67716.06,1.7,East,Credit Card
+ORD10140,30-06-2023,Gaming Console,electronics,66508.33,1,66508.33,2.5,South,cod
+ORD11068,03-05-2025,Gaming Console,ELECTRONICS,60013.31,3,180039.93,2.7,west,upi
+ORD11352,"Dec 05, 2023",Laptop Pro,electronics,25819.31,1,25819.31,2.6,south,upi
+ORD11311,"Dec 10, 2023",Gaming Console,ELECTRONICS,77766.76,3,233300.28,1.1,west,UPI
+ORD11172,"May 16, 2022",Smartphone X,Gadgets,90572.58,4,362290.32,3.9,East,UPI
+ORD10668,03-19-2022,Gaming Console,Gadgets,-38389.53,2,-76779.06,4,South,cod
+ORD10869,24-02-2024,Smartwatch Z,ELECTRONICS,58954.34,2,117908.68,5.4,west,cod
+ORD10513,05-14-2023,Gaming Console,Electronics,73740.61,2,147481.22,2.6,NORTH,UPI
+ORD10199,01-11-2025,Smartphone X,electronics,51481.9,two,102963.8,4.4,South,upi
+ORD11050,06-22-2024,Gaming Console,ELECTRONICS,33391.11,3,100173.33,3.1,East,Debit card
+ORD11295,21-10-2025,Gaming Console,ELECTRONICS,66666.68,3,200000.04,3.3,NORTH,upi
+ORD10782,"Jul 25, 2022",Smartphone X,ELECTRONICS,,2,94694.66,1.9,South,upi
+ORD11240,"Jul 07, 2022",Laptop Pro,electronics,28821.85,3,86465.55,4.7,NORTH,UPI
+ORD10811,"Sep 08, 2025",Gaming Console,Electronics,64842.55,4,259370.2,1.4,west,COD
+ORD10010,"May 26, 2025",Smartphone X,Electronics,101189.76,3,303569.28,4.4,South,upi
+ORD10147,26-03-2022,Laptop Pro,electronics,91847.75,4,367391,3.7,East,UPI
+ORD10701,"Jul 15, 2022",Wireless Earbuds,Electronics,18105.94,4,72423.76,1.7,South,Credit Card
+ORD10282,12-26-2025,Gaming Console,Gadgets,87640.49,2,175280.98,1.3,East,upi
+ORD10298,"Sep 24, 2024",Smartphone X,Electronics,101467.2,1,101467.2,2.6,NORTH,upi
+ORD10597,"Aug 14, 2024",Gaming Console,Electronics,66355.33,2,132710.66,1.7,west,UPI
+ORD10291,08-23-2023,Gaming Console,Gadgets,,two,154399.08,4,west,upi
+ORD10482,23-01-2023,Wireless Earbuds,Electronics,56476,1,56476,2.7,South,UPI
+ORD10582,14-04-2023,Laptop Pro,ELECTRONICS,53840.98,1,53840.98,3.4,East,cod
+ORD11349,28-04-2024,Wireless Earbuds,electronics,28868.85,4,115475.4,1.5,west,COD
+ORD10813,18-09-2024,Smartphone X,Gadgets,1944.92,4,7779.68,3.4,NORTH,UPI
+ORD10485,"Jan 28, 2025",Smartwatch Z,ELECTRONICS,-6970.85,3,-20912.55,1.7,NORTH,cod
+ORD10129,10-12-2025,Wireless Earbuds,electronics,10958.24,1,10958.24,4.8,south,cod
+ORD10764,"Mar 14, 2022",Smartphone X,electronics,7562.9,2,15125.8,4.3,NORTH,COD
+ORD10331,01-02-2022,Smartwatch Z,Gadgets,30432.54,1,30432.54,3.6,South,Credit Card
+ORD10323,05-07-2023,Gaming Console,Electronics,85095.88,1,85095.88,2.2,East,upi
+ORD10693,01-31-2025,Wireless Earbuds,ELECTRONICS,87081.85,3,261245.55,1.5,west,COD
+ORD10973,20-03-2023,Smartwatch Z,Electronics,54879.06,1,54879.06,2.6,East,upi
+ORD10578,09-08-2025,Smartphone X,Gadgets,71826.2,4,287304.8,2.5,South,UPI
+ORD10135,05-02-2024,Smartphone X,ELECTRONICS,61626.28,4,246505.12,1.7,East,Debit card
+ORD10481,04-28-2023,Smartphone X,ELECTRONICS,77601.83,2,155203.66,3.9,South,cod
+ORD11377,12-04-2023,Smartwatch Z,Gadgets,89143.49,2,178286.98,2.6,East,UPI
+ORD10705,"Nov 02, 2024",Wireless Earbuds,ELECTRONICS,85445.03,4,341780.12,4.1,East,cod
+ORD10435,"Sep 06, 2023",Smartphone X,electronics,78875.29,3,236625.87,4.9,South,Debit card
+ORD11250,29-04-2025,Smartwatch Z,ELECTRONICS,30394.78,2,60789.56,4.5,NORTH,cod
+ORD10101,22-12-2025,Laptop Pro,Gadgets,51637.48,2,103274.96,2.1,East,UPI
+ORD11170,13-10-2024,Wireless Earbuds,ELECTRONICS,44006.47,1,44006.47,4.4,East,upi
+ORD10817,03-11-2023,Wireless Earbuds,Gadgets,5844.98,3,17534.94,2.1,South,cod
+ORD10158,04-04-2024,Smartwatch Z,electronics,36715.45,3,110146.35,5.8,west,Credit Card
+ORD10984,31-07-2023,Wireless Earbuds,Gadgets,33782.85,4,135131.4,2.3,East,COD
+ORD11274,05-08-2022,Wireless Earbuds,electronics,54728.36,4,218913.44,,west,upi
+ORD10560,12-22-2022,Smartwatch Z,Electronics,79189.87,2,158379.74,1.6,NORTH,UPI
+ORD10352,11-01-2023,Smartphone X,Electronics,23613.04,2,47226.08,4.8,west,upi
+ORD10722,"Jul 29, 2022",Gaming Console,ELECTRONICS,17697.36,1,17697.36,1.1,NORTH,upi
+ORD11277,10-11-2022,Smartwatch Z,Gadgets,-14475.07,3,-43425.21,2.2,NORTH,Credit Card
+ORD11027,13-01-2022,Smartphone X,ELECTRONICS,44188.5,1,44188.5,2.7,NORTH,Credit Card
+ORD10548,09-08-2025,Gaming Console,ELECTRONICS,-74123.07,2,-148246.14,3.4,South,cod
+ORD10575,17-08-2022,Gaming Console,electronics,51520.11,3,154560.33,1.8,NORTH,cod
+ORD10621,17-11-2025,Smartwatch Z,Electronics,31334.64,4,125338.56,3.9,East,UPI
+ORD10195,09-23-2025,Smartphone X,Gadgets,77372.63,4,309490.52,5.8,west,cod
+ORD11222,04-05-2022,Gaming Console,ELECTRONICS,73227.98,two,292911.92,3.7,East,cod
+ORD10486,08-04-2025,Laptop Pro,ELECTRONICS,57485.6,2,114971.2,4.4,East,Credit Card
+ORD10438,23-11-2023,Smartwatch Z,ELECTRONICS,62854.46,4,251417.84,2.2,south,COD
+ORD10626,29-01-2023,Wireless Earbuds,electronics,48233.15,3,144699.45,3,west,UPI
+ORD10096,"Nov 14, 2023",Smartwatch Z,ELECTRONICS,60300.95,1,60300.95,1.8,NORTH,upi
+ORD11134,09-03-2024,Wireless Earbuds,electronics,65863.39,3,197590.17,,south,UPI
+ORD11197,16-01-2024,Smartphone X,Electronics,59263.7,3,177791.1,3.4,south,cod
+ORD11198,16-08-2025,Smartphone X,ELECTRONICS,65682.55,1,65682.55,6.5,south,upi
+ORD10419,"Jul 24, 2023",Smartwatch Z,ELECTRONICS,53881.8,4,215527.2,1.3,South,UPI
+ORD10410,05-23-2024,Smartwatch Z,ELECTRONICS,58365.05,1,58365.05,2,west,upi
+ORD10680,"Feb 21, 2024",Smartphone X,electronics,38962.84,2,77925.68,3.9,south,cod
+ORD10477,30-10-2023,Smartwatch Z,ELECTRONICS,70941.97,2,141883.94,2.9,South,COD
+ORD11373,06-10-2023,Wireless Earbuds,ELECTRONICS,-6643.11,4,-26572.44,4.2,East,Debit card
+ORD10156,12-08-2023,Gaming Console,Electronics,21038.31,4,84153.24,1.9,west,upi
+ORD10605,10-01-2022,Laptop Pro,Gadgets,,1,74375.24,4.1,south,UPI
+ORD10628,16-05-2024,Smartwatch Z,electronics,76034.83,4,304139.32,2.8,south,upi
+ORD10447,12-02-2024,Laptop Pro,ELECTRONICS,1522.41,3,4567.23,3.8,south,Credit Card
+ORD11046,20-03-2024,Wireless Earbuds,electronics,65667.81,2,131335.62,2.6,NORTH,cod
+ORD11323,"Apr 21, 2023",Gaming Console,Gadgets,86972.18,2,173944.36,1.3,East,upi
+ORD10178,12-03-2024,Smartwatch Z,electronics,64839.26,2,129678.52,1.3,NORTH,Credit Card
+ORD10390,"Feb 04, 2024",Laptop Pro,Gadgets,35895.79,3,107687.37,1.1,west,Credit Card
+ORD11163,01-14-2024,Laptop Pro,ELECTRONICS,57792.28,1,57792.28,3,south,COD
+ORD10862,16-02-2025,Laptop Pro,ELECTRONICS,47957.43,3,143872.29,1.8,NORTH,Debit card
+ORD11271,11-14-2025,Smartphone X,Electronics,56641.3,4,226565.2,1.6,west,COD
+ORD10500,"Jul 03, 2024",Wireless Earbuds,Electronics,64652.8,1,64652.8,,west,COD
+ORD10649,05-12-2023,Smartwatch Z,Gadgets,10672.87,2,21345.74,4.8,south,COD
+ORD10834,"Sep 03, 2023",Smartwatch Z,Electronics,6963.69,3,20891.07,3.4,South,cod
+ORD10506,16-08-2023,Smartwatch Z,Gadgets,31230.64,3,93691.92,1.6,NORTH,COD
+ORD11223,29-04-2025,Smartphone X,ELECTRONICS,33774.86,3,101324.58,5,NORTH,UPI
+ORD10308,19-05-2025,Smartphone X,electronics,,1,59706.32,2.6,East,COD
+ORD10461,02-02-2024,Laptop Pro,Gadgets,71780.2,3,215340.6,4.6,west,UPI
+ORD10983,"Feb 25, 2023",Wireless Earbuds,ELECTRONICS,42608.29,3,127824.87,3.7,South,COD
+ORD10588,11-29-2024,Smartwatch Z,Electronics,66726.47,3,200179.41,,south,Credit Card
+ORD10494,12-10-2025,Smartphone X,Electronics,66941.58,1,66941.58,4.1,NORTH,UPI
+ORD11375,05-10-2023,Smartwatch Z,ELECTRONICS,73078.01,4,292312.04,4.7,South,COD
+ORD10617,05-24-2025,Gaming Console,electronics,57836.08,1,57836.08,1,NORTH,cod
+ORD11218,28-03-2024,Smartphone X,electronics,63414.82,4,253659.28,,south,upi
+ORD10762,"Nov 25, 2023",Smartphone X,Gadgets,86157.52,4,344630.08,,west,upi
+ORD10838,06-03-2025,Gaming Console,Gadgets,54134.48,4,216537.92,1.7,south,upi
+ORD10765,06-24-2023,Laptop Pro,electronics,37843.56,4,151374.24,,NORTH,cod
+ORD10967,02-20-2022,Smartwatch Z,electronics,53844.7,4,215378.8,2.2,NORTH,COD
+ORD10294,"Aug 09, 2023",Smartwatch Z,ELECTRONICS,-3937.73,4,-15750.92,2.2,west,upi
+ORD10558,08-06-2022,Laptop Pro,Electronics,50876.23,4,203504.92,1.8,South,cod
+ORD10843,"Oct 22, 2024",Wireless Earbuds,electronics,-40286.98,2,-80573.96,3.2,south,Debit card
+ORD10088,07-09-2024,Smartwatch Z,electronics,40950.76,1,40950.76,1.8,NORTH,Credit Card
+ORD10958,05-26-2025,Wireless Earbuds,Electronics,15123.04,1,15123.04,3.8,East,Credit Card
+ORD10901,06-12-2022,Smartphone X,Electronics,35058.44,1,35058.44,2.1,west,Debit card
+ORD10561,10-03-2023,Wireless Earbuds,ELECTRONICS,16293.78,4,65175.12,1.5,south,UPI
+ORD11289,22-05-2022,Wireless Earbuds,electronics,24897.85,2,49795.7,3.6,South,Debit card
+ORD10680,"Feb 21, 2024",Smartphone X,electronics,38962.84,2,77925.68,3.9,south,cod
+ORD10677,01-10-2025,Smartwatch Z,Gadgets,42007.28,2,84014.56,2.6,NORTH,Debit card
+ORD10915,25-12-2023,Wireless Earbuds,Electronics,51650.25,4,206601,5.5,South,Debit card
+ORD10290,"Feb 22, 2025",Wireless Earbuds,Electronics,66463.41,2,132926.82,2.9,South,cod
+ORD10665,10-28-2023,Smartphone X,ELECTRONICS,63463.63,two,126927.26,1,south,COD
+ORD10613,07-06-2024,Gaming Console,electronics,45504.69,2,91009.38,4.3,south,Credit Card
+ORD10348,09-05-2023,Wireless Earbuds,ELECTRONICS,89500.55,2,179001.1,2.8,East,upi
+ORD11087,"Nov 19, 2025",Laptop Pro,Gadgets,16630.97,2,33261.94,3.1,NORTH,upi
+ORD11394,16-09-2023,Smartwatch Z,Electronics,54505.28,1,54505.28,2.1,East,upi
+ORD10672,"May 01, 2022",Gaming Console,Electronics,34302.03,2,68604.06,4,South,upi
+ORD10583,11-06-2025,Smartwatch Z,ELECTRONICS,,4,175270.68,4.1,west,Debit card
+ORD10458,08-06-2024,Gaming Console,Gadgets,51192.61,2,102385.22,4.7,East,UPI
+ORD10375,31-07-2025,Laptop Pro,ELECTRONICS,14828.02,1,14828.02,1.4,South,Debit card
+ORD10333,"Jan 13, 2022",Laptop Pro,electronics,60538.75,3,181616.25,4.6,NORTH,upi
+ORD10076,05-23-2025,Smartphone X,electronics,34976.41,4,139905.64,2.5,south,Credit Card
+ORD11305,08-07-2025,Wireless Earbuds,electronics,44765.9,3,134297.7,,South,upi
+ORD10691,01-11-2024,Smartwatch Z,electronics,22690.76,1,22690.76,,East,UPI
+ORD11371,12-02-2024,Wireless Earbuds,Electronics,39627.84,1,39627.84,1.3,west,cod
+ORD10328,28-05-2023,Laptop Pro,ELECTRONICS,24231.05,3,72693.15,3.7,South,Debit card
+ORD10318,05-07-2023,Gaming Console,Gadgets,56522.66,4,226090.64,3.8,NORTH,cod
+ORD11137,"May 09, 2024",Laptop Pro,ELECTRONICS,66264.1,1,66264.1,1.3,NORTH,Debit card
+ORD10923,"Apr 24, 2025",Wireless Earbuds,ELECTRONICS,24192.71,4,96770.84,3.7,South,Debit card
+ORD10012,03-05-2024,Gaming Console,Electronics,37987.23,4,151948.92,2,west,COD
+ORD10171,27-01-2022,Wireless Earbuds,electronics,86321.76,3,258965.28,2.1,South,upi
+ORD10260,10-02-2024,Wireless Earbuds,Electronics,45216.43,two,90432.86,1.3,East,UPI
+ORD10793,27-09-2023,Wireless Earbuds,Gadgets,37084.57,1,37084.57,2,South,UPI
+ORD10247,"Mar 25, 2025",Laptop Pro,Gadgets,38462.16,1,38462.16,4,South,UPI
+ORD11110,10-11-2025,Smartphone X,Electronics,17890.7,1,17890.7,3.1,west,Credit Card
+ORD10138,22-02-2023,Smartphone X,Electronics,36615.95,two,73231.9,3.2,East,upi
+ORD10549,06-01-2022,Smartwatch Z,ELECTRONICS,57679.43,2,115358.86,1.8,NORTH,Credit Card
+ORD10596,01-01-2023,Laptop Pro,Gadgets,49499.46,2,98998.92,4.6,South,cod
+ORD10818,"Aug 21, 2022",Wireless Earbuds,Gadgets,21873.65,3,65620.95,2.8,South,cod
+ORD10755,"Jan 08, 2023",Gaming Console,Gadgets,54824.76,1,54824.76,2.7,East,Credit Card
+ORD10139,19-12-2025,Smartphone X,electronics,73238.75,4,292955,2.7,west,UPI
+ORD11296,"Apr 22, 2023",Gaming Console,electronics,42999.63,3,128998.89,4.8,East,cod
+ORD10845,"Oct 08, 2022",Laptop Pro,Gadgets,32676.5,3,98029.5,2.7,NORTH,Credit Card
+ORD10224,11-06-2025,Smartwatch Z,ELECTRONICS,83742.83,3,251228.49,3.6,NORTH,cod
+ORD10571,"Nov 23, 2024",Laptop Pro,Gadgets,66670.58,2,133341.16,2.3,south,Debit card
+ORD10409,"Dec 19, 2024",Smartphone X,Gadgets,52934.27,3,158802.81,1.6,South,Debit card
+ORD10325,20-08-2022,Gaming Console,Electronics,49380.83,2,98761.66,1.1,south,COD
+ORD10299,29-08-2024,Smartwatch Z,electronics,51184.37,3,153553.11,1.8,East,UPI
+ORD10889,07-25-2022,Wireless Earbuds,ELECTRONICS,33145.15,3,99435.45,2.5,west,Debit card
+ORD10718,"Apr 24, 2023",Laptop Pro,Electronics,18749.08,1,18749.08,3,south,cod
+ORD11107,02-05-2022,Laptop Pro,Electronics,59949.71,4,239798.84,3.7,East,UPI
+ORD11372,"Oct 19, 2024",Smartphone X,electronics,19613.08,2,39226.16,5.4,South,Debit card
+ORD10918,09-03-2024,Smartphone X,Electronics,44709.7,1,44709.7,3.2,South,UPI
+ORD10844,10-04-2025,Smartwatch Z,ELECTRONICS,75314.16,1,75314.16,5.8,South,Credit Card
+ORD10503,06-25-2022,Wireless Earbuds,Electronics,59050.7,two,236202.8,3.1,west,cod
+ORD10810,"Mar 30, 2022",Smartwatch Z,Electronics,,4,331197.16,3.7,East,cod
+ORD10003,04-02-2024,Gaming Console,Electronics,70210.31,1,70210.31,4.9,west,Credit Card
+ORD11036,29-11-2025,Smartphone X,Gadgets,14428.25,two,43284.75,4.7,NORTH,UPI
+ORD10467,22-07-2025,Wireless Earbuds,electronics,58483.32,1,58483.32,4.2,south,cod
+ORD10321,23-07-2022,Smartwatch Z,ELECTRONICS,33673.89,3,101021.67,2.1,south,Credit Card
+ORD10005,12-06-2024,Wireless Earbuds,Gadgets,60851.2,1,60851.2,2.2,NORTH,cod
+ORD10943,"Oct 24, 2024",Gaming Console,ELECTRONICS,71169.69,3,213509.07,3.6,NORTH,upi
+ORD11010,10-15-2023,Smartphone X,electronics,46923.48,1,46923.48,2.6,South,cod
+ORD10986,"Jun 16, 2022",Gaming Console,electronics,56601.3,2,113202.6,3.8,south,Debit card
+ORD10039,21-01-2024,Smartwatch Z,ELECTRONICS,64874.23,3,194622.69,1.6,East,Debit card
+ORD10542,13-04-2022,Gaming Console,Gadgets,61001.04,2,122002.08,4.2,west,UPI
+ORD10242,05-10-2023,Gaming Console,Gadgets,62771.85,3,188315.55,4.7,west,cod
+ORD10136,"Feb 11, 2025",Smartphone X,ELECTRONICS,64945.87,1,64945.87,3.9,west,UPI
+ORD11324,10-12-2025,Smartphone X,Gadgets,80677.1,3,242031.3,2.7,South,Debit card
+ORD10802,14-02-2025,Laptop Pro,ELECTRONICS,51401.04,1,51401.04,2,South,COD
+ORD11103,12-28-2024,Smartphone X,ELECTRONICS,55535.87,2,111071.74,3.7,south,UPI
+ORD11055,14-09-2022,Laptop Pro,Gadgets,112198.37,3,336595.11,6.4,south,UPI
+ORD11347,14-07-2025,Laptop Pro,ELECTRONICS,61878.53,2,123757.06,1.8,South,UPI
+ORD10581,"Dec 15, 2022",Gaming Console,electronics,65601.56,4,262406.24,3.5,west,COD
+ORD11023,01-18-2025,Laptop Pro,electronics,46211.73,4,184846.92,3.3,south,UPI
+ORD10261,"Nov 22, 2024",Laptop Pro,ELECTRONICS,66462.1,4,265848.4,3.5,South,COD
+ORD11370,05-26-2024,Gaming Console,electronics,73071.27,1,73071.27,3.2,East,cod
+ORD10376,09-10-2022,Gaming Console,Electronics,23110.99,4,92443.96,3.9,south,Debit card
+ORD10314,06-06-2023,Smartwatch Z,ELECTRONICS,64219.2,3,192657.6,4.9,west,COD
+ORD10442,18-08-2023,Laptop Pro,ELECTRONICS,36472.15,2,72944.3,1.9,NORTH,cod
+ORD10319,"Jun 25, 2025",Laptop Pro,ELECTRONICS,24977.73,1,24977.73,4.3,south,Debit card
+ORD10781,"Nov 11, 2024",Smartwatch Z,Electronics,66684.65,3,200053.95,3.2,west,upi
+ORD10770,25-01-2024,Smartwatch Z,Gadgets,19631.02,1,19631.02,4.2,south,upi
+ORD10424,20-02-2023,Smartwatch Z,ELECTRONICS,47379.23,3,142137.69,,East,Credit Card
+ORD10553,02-06-2022,Wireless Earbuds,electronics,35983.37,4,143933.48,2.7,East,Debit card
+ORD10594,"Apr 03, 2022",Smartwatch Z,ELECTRONICS,29268.48,4,117073.92,3.3,South,UPI
+ORD10994,18-04-2023,Laptop Pro,Gadgets,45985.02,4,183940.08,4.6,East,Credit Card
+ORD11330,19-03-2023,Gaming Console,electronics,32215.18,3,96645.54,2.4,south,COD
+ORD11200,"Sep 19, 2025",Laptop Pro,Electronics,30243.39,4,120973.56,3.4,East,upi
+ORD10607,"Feb 16, 2023",Gaming Console,electronics,48746.86,3,146240.58,,East,COD
+ORD10227,12-16-2022,Gaming Console,Gadgets,70290.65,4,281162.6,1.5,west,Credit Card
+ORD11359,"Jan 07, 2025",Gaming Console,Electronics,60127.34,1,60127.34,2.9,south,upi
+ORD11084,"Dec 03, 2022",Smartwatch Z,Gadgets,42804.63,2,85609.26,3.4,south,COD
+ORD10949,08-05-2023,Laptop Pro,Gadgets,79049.35,2,158098.7,1.8,NORTH,Credit Card
+ORD10670,12-11-2024,Smartphone X,electronics,39707.17,1,39707.17,3.2,NORTH,UPI
+ORD10066,13-01-2025,Smartphone X,Gadgets,66270.34,2,132540.68,4.9,South,Credit Card
+ORD11213,"Dec 26, 2024",Wireless Earbuds,Electronics,,2,130381.86,3.8,NORTH,Credit Card
+ORD10579,"Jan 03, 2023",Wireless Earbuds,Electronics,62182.76,3,186548.28,2.6,NORTH,upi
+ORD11188,"Dec 16, 2022",Gaming Console,Gadgets,63030.44,1,63030.44,2.5,East,Debit card
+ORD10211,07-06-2023,Gaming Console,Electronics,26042.44,2,52084.88,4.2,west,cod
+ORD10997,"May 18, 2023",Laptop Pro,Electronics,61771.07,4,247084.28,4.8,East,COD
+ORD10759,07-28-2025,Laptop Pro,ELECTRONICS,44661.71,4,178646.84,4.6,South,UPI
+ORD10536,22-08-2024,Smartwatch Z,Gadgets,46222.07,2,92444.14,1.7,west,upi
+ORD11113,24-03-2025,Wireless Earbuds,electronics,77629.08,2,155258.16,3.9,south,upi
+ORD10643,"Oct 27, 2025",Smartwatch Z,electronics,31487.58,1,31487.58,3.1,East,upi
+ORD10085,03-25-2023,Smartwatch Z,electronics,47254.56,2,94509.12,4.8,East,upi
+ORD11331,10-07-2022,Gaming Console,ELECTRONICS,69106.01,two,69106.01,1,south,Credit Card
+ORD11108,16-11-2025,Smartphone X,ELECTRONICS,49528.96,3,148586.88,4.6,South,upi
+ORD10887,17-04-2022,Wireless Earbuds,ELECTRONICS,49414.74,2,98829.48,3.4,south,Debit card
+ORD11350,07-03-2023,Laptop Pro,Electronics,54586.28,2,109172.56,3.7,south,UPI
+ORD10990,04-03-2025,Smartphone X,electronics,50076.06,1,50076.06,4.8,East,cod
+ORD11204,08-18-2025,Smartphone X,electronics,54445.32,4,217781.28,2.8,East,upi
+ORD11381,"Sep 22, 2024",Smartphone X,ELECTRONICS,35868.79,3,107606.37,4.8,East,upi
+ORD10966,29-04-2025,Smartwatch Z,Gadgets,45246.1,2,90492.2,2.7,East,COD
+ORD10273,"Apr 19, 2025",Laptop Pro,Electronics,69471.15,4,277884.6,3.2,South,upi
+ORD10208,07-11-2022,Laptop Pro,Electronics,33690.02,1,33690.02,3.2,South,UPI
+ORD10362,07-06-2022,Gaming Console,electronics,40691,2,81382,3.6,East,UPI
+ORD10622,22-02-2022,Smartwatch Z,Gadgets,3946.06,4,15784.24,4.4,south,UPI
+ORD10002,04-06-2023,Smartphone X,Electronics,55580.83,4,222323.32,3.6,south,UPI
+ORD10006,19-06-2024,Laptop Pro,Gadgets,-2250.98,1,-2250.98,3.1,NORTH,UPI
+ORD10311,"Mar 16, 2024",Laptop Pro,ELECTRONICS,27418.96,1,27418.96,4.2,South,Debit card
+ORD10682,12-11-2025,Wireless Earbuds,electronics,87226.31,2,174452.62,2.9,NORTH,UPI
+ORD10910,19-12-2023,Smartwatch Z,Gadgets,52135.74,1,52135.74,3.8,west,upi
+ORD10277,07-27-2022,Laptop Pro,Gadgets,3505.61,2,7011.22,3.3,East,Debit card
+ORD10215,"Oct 03, 2022",Wireless Earbuds,electronics,37592.73,4,150370.92,1.8,East,upi
+ORD10665,10-28-2023,Smartphone X,ELECTRONICS,63463.63,two,126927.26,1,south,COD
+ORD10027,16-04-2022,Smartphone X,Gadgets,65099.96,2,130199.92,1.5,South,upi
+ORD11067,13-11-2022,Laptop Pro,electronics,59095.9,1,59095.9,4.3,East,cod
+ORD10839,"Nov 21, 2025",Wireless Earbuds,Electronics,65178.77,2,130357.54,1.5,south,Credit Card
+ORD10846,06-08-2025,Wireless Earbuds,ELECTRONICS,26127.26,1,26127.26,6.2,west,COD
+ORD10638,18-04-2023,Smartwatch Z,electronics,34365.75,2,68731.5,1.3,south,cod
+ORD10730,24-10-2025,Laptop Pro,Gadgets,58731.2,2,117462.4,4.4,south,Debit card
+ORD10799,06-11-2022,Gaming Console,Electronics,84212.27,3,252636.81,1.3,west,upi
+ORD10624,04-28-2022,Smartwatch Z,Gadgets,,1,36618.55,4.2,NORTH,Credit Card
+ORD11293,"Mar 22, 2025",Laptop Pro,Electronics,55817.06,3,167451.18,1.7,west,Credit Card
+ORD10256,08-06-2022,Laptop Pro,Gadgets,67422.49,1,67422.49,3.7,South,Credit Card
+ORD10025,24-07-2022,Wireless Earbuds,ELECTRONICS,62233.53,3,186700.59,3.8,west,Debit card
+ORD10336,03-27-2025,Wireless Earbuds,ELECTRONICS,46837.97,4,187351.88,4.1,South,Debit card
+ORD10572,24-12-2022,Gaming Console,Gadgets,63899.96,2,127799.92,2.8,South,Credit Card
+ORD10047,"Jan 22, 2022",Wireless Earbuds,Electronics,56910.36,2,113820.72,2.4,East,UPI
+ORD10106,"Dec 08, 2022",Gaming Console,electronics,97780.72,3,293342.16,1.6,south,cod
+ORD10349,16-02-2024,Wireless Earbuds,Electronics,49054.71,3,147164.13,,East,Credit Card
+ORD10055,15-02-2024,Gaming Console,Gadgets,26626.44,3,79879.32,3.7,south,cod
+ORD11151,"Oct 28, 2024",Wireless Earbuds,electronics,53293.1,3,159879.3,3.4,west,cod
+ORD10213,"Aug 07, 2023",Smartwatch Z,electronics,54279.6,4,217118.4,1.2,south,Debit card
+ORD10120,30-06-2024,Gaming Console,Electronics,44948.64,3,134845.92,1.2,NORTH,UPI
+ORD10936,02-24-2025,Smartphone X,Electronics,67017.96,4,268071.84,4.7,South,Debit card
+ORD10715,"Jul 17, 2023",Laptop Pro,ELECTRONICS,67680.91,3,203042.73,1.1,South,COD
+ORD10072,24-11-2024,Smartwatch Z,electronics,,4,145598.04,,west,Credit Card
+ORD10757,22-08-2024,Laptop Pro,ELECTRONICS,58566.14,3,175698.42,1.6,East,COD
+ORD10700,26-03-2024,Wireless Earbuds,ELECTRONICS,40679.27,3,122037.81,2.5,south,upi
+ORD10045,27-10-2023,Smartwatch Z,Electronics,20729.7,two,62189.1,1,NORTH,cod
+ORD11245,10-20-2022,Smartwatch Z,ELECTRONICS,83700.29,2,167400.58,,west,COD
+ORD10523,"Dec 18, 2025",Smartphone X,Electronics,50311.58,2,100623.16,2.6,west,Credit Card
+ORD10841,23-01-2025,Gaming Console,electronics,52171.19,4,208684.76,2.2,East,COD
+ORD10767,25-02-2024,Wireless Earbuds,electronics,33202.38,1,33202.38,2,NORTH,UPI
+ORD10836,07-01-2022,Smartwatch Z,electronics,-60238.48,3,-180715.44,6.3,south,upi
+ORD10771,05-03-2022,Laptop Pro,Gadgets,74877.06,2,149754.12,4.9,west,cod
+ORD10533,02-03-2023,Wireless Earbuds,Gadgets,61509.37,3,184528.11,1.1,South,COD
+ORD10603,06-23-2025,Smartwatch Z,Electronics,55865.39,4,223461.56,1.9,South,Debit card
+ORD10465,12-10-2022,Gaming Console,Gadgets,54090.99,4,216363.96,1.6,NORTH,cod
+ORD11092,"Dec 05, 2023",Smartphone X,electronics,31562.8,two,63125.6,3.8,south,Debit card
+ORD11259,22-07-2025,Smartwatch Z,Electronics,69920.17,3,209760.51,1.1,South,upi
+ORD10754,01-16-2024,Gaming Console,electronics,53830.42,2,107660.84,2.3,west,COD
+ORD11243,09-28-2024,Wireless Earbuds,Electronics,71553.03,2,143106.06,1.6,south,upi
+ORD10060,09-12-2022,Laptop Pro,Electronics,84132.1,3,252396.3,3.8,NORTH,Debit card
+ORD10858,"Jun 04, 2022",Smartwatch Z,ELECTRONICS,17422.2,4,69688.8,3.3,south,Debit card
+ORD10092,21-10-2024,Gaming Console,ELECTRONICS,51164.17,2,102328.34,2.3,East,Debit card
+ORD10666,31-10-2024,Smartwatch Z,ELECTRONICS,66569.09,1,66569.09,2.1,west,upi
+ORD10067,23-12-2025,Smartphone X,electronics,25382.71,4,101530.84,3.1,west,cod
+ORD10194,06-23-2022,Smartphone X,Electronics,62907.52,2,125815.04,6.8,East,Credit Card
+ORD10280,19-04-2022,Smartphone X,Electronics,85643.27,4,342573.08,1.1,East,upi
+ORD10359,13-03-2023,Smartphone X,Gadgets,54153.75,2,108307.5,4.7,South,Debit card
+ORD10519,19-06-2024,Smartwatch Z,Electronics,69281.74,3,207845.22,4.2,South,COD
+ORD10788,18-10-2024,Gaming Console,Gadgets,53919.5,1,53919.5,4.4,south,Debit card
+ORD10746,"Oct 13, 2024",Smartphone X,Electronics,73762.91,3,221288.73,1.8,south,COD
+ORD10182,"Oct 04, 2025",Wireless Earbuds,electronics,56818.44,3,170455.32,3.3,East,Credit Card
+ORD11004,09-07-2022,Gaming Console,electronics,86086.96,3,258260.88,1.9,South,COD
+ORD10110,22-11-2025,Gaming Console,ELECTRONICS,34563.62,2,69127.24,4.7,south,upi
+ORD10042,06-09-2024,Smartwatch Z,ELECTRONICS,77437.24,4,309748.96,2.4,South,COD
+ORD10886,"Jan 12, 2025",Laptop Pro,ELECTRONICS,57542.01,4,230168.04,4,East,COD
+ORD10204,07-07-2022,Smartphone X,Electronics,27974.96,4,111899.84,2.6,west,Credit Card
+ORD11145,12-12-2024,Wireless Earbuds,Electronics,44900.88,2,89801.76,2.4,NORTH,Credit Card
+ORD10052,27-08-2023,Smartwatch Z,Gadgets,36816.35,1,36816.35,2.4,NORTH,Debit card
+ORD10545,08-13-2023,Smartphone X,Gadgets,31255.44,two,125021.76,2.9,NORTH,cod
+ORD10962,"Nov 20, 2022",Smartwatch Z,Electronics,48452.55,3,145357.65,4.5,west,UPI
+ORD10867,24-06-2023,Smartphone X,ELECTRONICS,54579.65,2,109159.3,4.3,South,COD
+ORD10829,07-20-2023,Laptop Pro,electronics,36942.06,3,110826.18,2.6,South,Credit Card
+ORD10938,12-05-2023,Gaming Console,electronics,48689.05,1,48689.05,4.7,south,cod
+ORD10183,27-09-2024,Wireless Earbuds,electronics,48271.73,1,48271.73,2.9,South,UPI
+ORD10137,30-12-2023,Wireless Earbuds,electronics,62207.41,4,248829.64,2.5,south,upi
+ORD10941,03-07-2024,Smartphone X,ELECTRONICS,74722.61,3,224167.83,4.8,west,COD
+ORD10080,15-08-2023,Wireless Earbuds,Gadgets,67573.47,3,202720.41,2.7,South,COD
+ORD11195,06-01-2024,Laptop Pro,Gadgets,80523.73,4,322094.92,1.8,south,Credit Card
+ORD10105,03-17-2022,Smartphone X,electronics,28445.1,4,113780.4,3.5,south,Debit card
+ORD10541,25-10-2023,Smartwatch Z,electronics,65461.66,2,130923.32,1.5,East,cod
+ORD11393,28-02-2023,Gaming Console,ELECTRONICS,18472.97,3,55418.91,1.9,west,cod
+ORD10480,07-04-2024,Gaming Console,ELECTRONICS,,3,238592.43,1.9,west,Debit card
+ORD10165,09-08-2024,Laptop Pro,ELECTRONICS,41975.59,2,83951.18,1,South,cod
+ORD10248,26-05-2022,Smartwatch Z,electronics,35533.22,3,106599.66,4.2,west,Credit Card
+ORD10307,"Feb 13, 2025",Wireless Earbuds,ELECTRONICS,-34443.67,1,-34443.67,1.1,NORTH,upi
+ORD10446,07-11-2025,Smartwatch Z,electronics,40953.87,3,122861.61,3.9,East,COD
+ORD11353,"Nov 10, 2024",Smartphone X,ELECTRONICS,,2,90466.48,,NORTH,cod
+ORD10334,30-09-2025,Wireless Earbuds,Gadgets,55120.59,4,220482.36,3.5,south,COD
+ORD10097,"Apr 17, 2022",Smartwatch Z,Electronics,127054.63,4,508218.52,3.8,south,UPI
+ORD11235,07-04-2023,Gaming Console,Electronics,22013.88,2,44027.76,2.4,south,Credit Card
+ORD10809,"Apr 22, 2025",Smartphone X,electronics,54600.19,1,54600.19,3.5,South,Debit card
+ORD10976,04-08-2025,Laptop Pro,electronics,,2,92965.82,3.3,west,cod
+ORD10102,03-26-2025,Wireless Earbuds,Gadgets,41709.36,4,166837.44,1.2,NORTH,Credit Card
+ORD10434,28-01-2025,Gaming Console,electronics,24969.21,3,74907.63,2.9,South,Debit card
+ORD10074,06-07-2022,Smartphone X,Gadgets,53496.66,2,106993.32,2.8,south,COD
+ORD11322,24-10-2025,Smartphone X,Gadgets,63710.15,3,191130.45,4.7,East,Debit card
+ORD10849,03-05-2023,Smartwatch Z,Gadgets,55206.44,3,165619.32,2.3,South,UPI
+ORD11341,08-06-2025,Wireless Earbuds,Gadgets,50197.61,1,50197.61,4,South,UPI
+ORD10302,14-10-2023,Laptop Pro,electronics,35743.08,2,71486.16,3.9,South,COD
+ORD11244,25-11-2022,Smartphone X,Gadgets,74617.49,3,223852.47,1.8,East,COD
+ORD11206,10-02-2022,Wireless Earbuds,ELECTRONICS,36843.31,2,73686.62,3.1,NORTH,upi
+ORD10733,08-01-2022,Smartwatch Z,ELECTRONICS,51475.4,3,154426.2,2.8,south,COD
+ORD10388,28-12-2023,Laptop Pro,Gadgets,78410.08,2,156820.16,5,East,Debit card
+ORD10235,02-07-2024,Smartwatch Z,Electronics,63692.84,2,127385.68,2.6,south,upi
+ORD11227,18-02-2022,Wireless Earbuds,Electronics,62810.67,2,125621.34,1.1,South,UPI
+ORD10267,08-07-2024,Gaming Console,Gadgets,32878.32,2,65756.64,4,East,UPI
+ORD10305,18-01-2022,Laptop Pro,Electronics,25187.2,4,100748.8,1.7,west,Debit card
+ORD10117,"Apr 17, 2025",Laptop Pro,electronics,35846.61,4,143386.44,1.2,East,Debit card
+ORD11329,"Apr 03, 2025",Laptop Pro,Gadgets,72937.58,1,72937.58,4.5,NORTH,COD
+ORD10673,04-02-2023,Laptop Pro,electronics,62965.61,4,251862.44,2.3,west,Debit card
+ORD10249,21-09-2023,Smartphone X,electronics,98676.96,3,296030.88,4.7,west,Credit Card
+ORD11078,07-17-2022,Wireless Earbuds,Electronics,74995.61,1,74995.61,2.7,south,cod
+ORD11383,28-07-2023,Smartwatch Z,Gadgets,54484.33,3,163452.99,2.6,East,upi
+ORD10071,05-06-2022,Smartphone X,Gadgets,32657.08,2,65314.16,4.1,south,UPI
+ORD10094,"Mar 28, 2024",Wireless Earbuds,Gadgets,30819.84,1,30819.84,2.2,west,Debit card
+ORD10820,23-03-2023,Gaming Console,electronics,45901.3,2,91802.6,1.2,East,UPI
+ORD10033,16-08-2022,Wireless Earbuds,Electronics,37097.6,3,111292.8,4.1,East,cod
+ORD11085,25-03-2025,Gaming Console,electronics,,4,93916.2,2.1,west,UPI
+ORD10448,"May 09, 2022",Smartwatch Z,electronics,57442.63,4,229770.52,3.9,East,Credit Card
+ORD10445,"Apr 17, 2025",Gaming Console,Electronics,61294.02,4,245176.08,2.8,west,Credit Card
+ORD10716,17-12-2025,Wireless Earbuds,Gadgets,,3,164824.65,4.5,NORTH,cod
+ORD10859,11-07-2023,Smartphone X,Electronics,75449.75,2,150899.5,2.8,NORTH,Debit card
+ORD11150,24-02-2024,Laptop Pro,electronics,53496.36,3,160489.08,2.7,south,upi
+ORD10873,27-01-2023,Gaming Console,electronics,32531.81,1,32531.81,2.4,NORTH,cod
+ORD11378,29-04-2024,Wireless Earbuds,ELECTRONICS,59070.17,2,118140.34,,South,UPI
+ORD10077,21-12-2024,Gaming Console,Electronics,27391.44,4,109565.76,4.4,South,COD
+ORD10084,05-22-2025,Gaming Console,Electronics,50839.6,1,50839.6,,South,cod
+ORD10807,07-02-2022,Smartphone X,Gadgets,63557.51,2,127115.02,4.1,south,upi
+ORD10082,16-10-2023,Smartphone X,Electronics,44706.86,1,44706.86,1.9,west,cod
+ORD10457,17-05-2024,Gaming Console,electronics,41100.33,1,41100.33,3.8,west,Debit card
+ORD11182,21-08-2024,Smartphone X,ELECTRONICS,37865.99,2,75731.98,7,South,upi
+ORD10676,12-02-2024,Laptop Pro,electronics,84539.28,4,338157.12,1.9,south,upi
+ORD11201,08-05-2024,Gaming Console,Electronics,68664.65,1,68664.65,2,west,cod
+ORD11148,30-12-2024,Gaming Console,electronics,53504.23,2,107008.46,3.1,west,COD
+ORD10436,05-11-2025,Laptop Pro,Electronics,55393.39,1,55393.39,1.6,south,UPI
+ORD10644,08-12-2025,Smartphone X,Electronics,37129.64,4,148518.56,1.5,East,cod
+ORD11309,05-06-2025,Wireless Earbuds,Gadgets,45884.63,2,91769.26,2.7,NORTH,Debit card
+ORD11216,27-04-2025,Laptop Pro,Gadgets,56993,4,227972,4.4,west,cod
+ORD11177,04-09-2022,Laptop Pro,Gadgets,46262.61,1,46262.61,1.7,NORTH,UPI
+ORD10404,05-09-2024,Gaming Console,ELECTRONICS,66409.64,1,66409.64,4.7,NORTH,UPI
+ORD11285,"Nov 12, 2022",Laptop Pro,Gadgets,20621.53,1,20621.53,4.4,south,COD
+ORD10905,"Dec 15, 2025",Smartwatch Z,electronics,64313.16,4,257252.64,3.6,NORTH,cod
+ORD11230,27-11-2024,Smartphone X,electronics,71428.23,4,285712.92,2.7,south,COD
+ORD10104,29-08-2024,Gaming Console,Gadgets,51285.6,1,51285.6,2.1,NORTH,upi
+ORD10609,05-07-2025,Smartphone X,electronics,43950.61,1,43950.61,3,south,COD
+ORD11356,15-01-2022,Wireless Earbuds,Gadgets,64649.84,2,129299.68,3.2,South,Credit Card
+ORD11013,"Jun 25, 2025",Smartwatch Z,ELECTRONICS,37049.16,2,74098.32,5,NORTH,COD
+ORD10903,"Nov 17, 2022",Gaming Console,Electronics,60261.71,3,180785.13,4,South,UPI
+ORD10062,01-18-2024,Laptop Pro,Gadgets,28753.93,1,28753.93,2.6,NORTH,cod
+ORD10281,20-01-2024,Smartphone X,Electronics,61805.49,3,185416.47,1.6,south,cod
+ORD10778,02-11-2022,Smartphone X,Electronics,-60278.16,4,-241112.64,1.9,East,Debit card
+ORD11270,"Jun 11, 2022",Wireless Earbuds,electronics,-42411.91,4,-169647.64,1.3,west,Credit Card
+ORD10238,11-10-2024,Smartwatch Z,electronics,90866.41,3,272599.23,4.4,South,Debit card
+ORD10223,03-21-2025,Smartphone X,Electronics,49044.18,2,98088.36,2.3,south,UPI
+ORD10145,11-10-2023,Laptop Pro,Electronics,37738.11,4,150952.44,3.3,south,cod
+ORD11380,07-28-2022,Smartwatch Z,ELECTRONICS,47303.98,3,141911.94,3,East,upi
+ORD10373,12-06-2023,Wireless Earbuds,Electronics,,4,312747.8,4.5,south,COD
+ORD10118,"Oct 30, 2022",Smartphone X,electronics,45252.16,2,90504.32,4.1,South,Credit Card
+ORD11111,01-11-2022,Wireless Earbuds,Gadgets,41219.88,3,123659.64,1,East,UPI
+ORD10250,06-09-2022,Gaming Console,Electronics,57422.92,1,57422.92,1.8,NORTH,upi
+ORD10051,02-07-2025,Smartwatch Z,electronics,49469.72,3,148409.16,3.4,south,Debit card
+ORD10009,26-06-2024,Smartwatch Z,Gadgets,21753.93,2,43507.86,1.8,NORTH,upi
+ORD10449,02-10-2024,Gaming Console,ELECTRONICS,59577.44,3,178732.32,1.4,west,cod
+ORD10708,12-14-2023,Smartphone X,electronics,47996.92,4,191987.68,2.1,NORTH,cod
+ORD10255,28-05-2023,Wireless Earbuds,electronics,43618.86,2,87237.72,3.1,NORTH,UPI
+ORD10593,31-05-2022,Wireless Earbuds,Gadgets,61991.88,3,185975.64,1.7,East,Debit card
+ORD10389,16-05-2022,Gaming Console,electronics,38585.07,3,115755.21,4.3,south,COD
+ORD11315,"Jun 13, 2023",Smartwatch Z,ELECTRONICS,128524.75,2,257049.5,3.2,South,Credit Card
+ORD11236,16-03-2022,Smartphone X,Gadgets,20583.9,3,61751.7,2.8,NORTH,Debit card
+ORD10557,09-26-2024,Smartphone X,Gadgets,35301.79,1,35301.79,1.4,NORTH,UPI
+ORD11269,"Jun 17, 2023",Laptop Pro,Gadgets,42961.57,4,171846.28,,NORTH,cod
+ORD10812,05-08-2022,Smartwatch Z,Electronics,44868.24,2,89736.48,2.1,west,UPI
+ORD10460,11-26-2024,Laptop Pro,electronics,38410.73,3,115232.19,2.9,south,COD
+ORD10723,20-05-2023,Wireless Earbuds,ELECTRONICS,73294.79,1,73294.79,1.9,south,Debit card
+ORD10029,16-10-2024,Wireless Earbuds,ELECTRONICS,69510.9,3,208532.7,2.2,west,COD
+ORD10144,22-05-2024,Laptop Pro,Gadgets,44579.19,2,89158.38,3.7,NORTH,Debit card
+ORD10501,11-26-2022,Gaming Console,ELECTRONICS,48385.67,3,145157.01,,west,UPI
+ORD11083,12-21-2025,Smartphone X,Electronics,-46930.31,3,-140790.93,3.5,west,COD
+ORD10739,09-05-2023,Smartphone X,Gadgets,18736.18,1,18736.18,,East,UPI
+ORD11366,"Nov 29, 2024",Smartphone X,Electronics,19589.17,3,58767.51,3.3,west,upi
+ORD10731,15-08-2023,Smartphone X,Electronics,68078.7,3,204236.1,3.6,west,Credit Card
+ORD10539,04-20-2025,Smartwatch Z,ELECTRONICS,27928.21,4,111712.84,2.2,south,COD
+ORD10177,01-28-2024,Smartwatch Z,electronics,87523.42,1,87523.42,3.7,south,COD
+ORD11041,"Nov 30, 2022",Smartwatch Z,Electronics,35019.37,two,140077.48,4.9,NORTH,upi
+ORD10697,17-02-2025,Gaming Console,Gadgets,27607.65,3,82822.95,1.1,south,Debit card
+ORD11361,29-07-2024,Smartphone X,electronics,62042.37,3,186127.11,3.1,south,cod
+ORD11034,"Sep 11, 2024",Gaming Console,Electronics,70740.95,2,141481.9,4.3,NORTH,cod
+ORD11035,11-09-2025,Laptop Pro,Electronics,64811.82,2,129623.64,4.5,South,COD
+ORD11251,22-07-2023,Smartphone X,Electronics,111238.94,2,222477.88,3.3,East,cod
+ORD10752,23-07-2022,Smartphone X,electronics,30897.55,4,123590.2,4.2,west,Debit card
+ORD10007,22-09-2022,Smartphone X,ELECTRONICS,69007.39,3,207022.17,1.6,East,UPI
+ORD11280,03-12-2025,Smartphone X,electronics,41717.58,3,125152.74,1.5,south,Credit Card
+ORD10667,23-11-2025,Laptop Pro,ELECTRONICS,31465.74,3,94397.22,2.6,East,Credit Card
+ORD11144,01-13-2025,Smartphone X,electronics,60977.68,4,243910.72,4.1,south,upi
+ORD10357,12-08-2023,Gaming Console,Gadgets,48841.9,2,97683.8,,south,UPI
+ORD10783,11-01-2024,Smartphone X,ELECTRONICS,,1,30509.41,3.2,NORTH,UPI
+ORD11118,06-05-2025,Laptop Pro,electronics,82299.54,2,164599.08,2.5,west,UPI
+ORD10329,08-01-2025,Smartwatch Z,Gadgets,52016.35,2,104032.7,4.7,west,cod
+ORD11040,04-07-2024,Smartphone X,Electronics,29401.31,3,88203.93,1.2,East,upi
+ORD11132,"Jul 20, 2025",Wireless Earbuds,ELECTRONICS,42257.39,4,169029.56,3.4,NORTH,COD
+ORD11102,12-03-2022,Smartphone X,Electronics,45701.79,2,91403.58,,East,Debit card
+ORD10258,"Sep 26, 2022",Smartwatch Z,Electronics,36471.74,2,72943.48,5.9,south,UPI
+ORD11159,21-08-2025,Smartwatch Z,Electronics,61997.19,2,123994.38,,East,COD
+ORD10372,"Dec 31, 2024",Smartwatch Z,electronics,-39654.23,1,-39654.23,2.9,south,Credit Card
+ORD11088,13-03-2025,Gaming Console,electronics,45391.99,1,45391.99,1.8,South,Credit Card
+ORD10220,21-08-2023,Wireless Earbuds,electronics,,3,142324.95,2.6,south,cod
+ORD10142,"May 13, 2022",Gaming Console,ELECTRONICS,39536.24,3,118608.72,1.4,East,cod
+ORD10525,25-06-2023,Laptop Pro,Gadgets,81051.24,4,324204.96,2.5,South,Debit card
+ORD11169,06-23-2022,Smartphone X,Electronics,24311.39,2,48622.78,3,NORTH,cod
+ORD11009,14-02-2025,Wireless Earbuds,Electronics,62090.31,3,186270.93,3.9,south,UPI
+ORD11106,"Dec 15, 2024",Smartphone X,Electronics,47804.61,1,47804.61,3.5,south,upi
+ORD10724,10-02-2025,Gaming Console,electronics,62659.24,3,187977.72,3.2,East,COD
+ORD10440,10-01-2025,Wireless Earbuds,Electronics,74984.04,1,74984.04,1,west,Debit card
+ORD10531,17-05-2025,Smartwatch Z,Electronics,17092.03,4,68368.12,3.4,East,Debit card
+ORD11116,09-10-2022,Gaming Console,ELECTRONICS,31676.16,4,126704.64,2.4,west,Credit Card
+ORD10226,01-19-2024,Gaming Console,Gadgets,97486.59,4,389946.36,3.3,west,cod
+ORD11022,06-15-2024,Wireless Earbuds,electronics,54278.08,1,54278.08,1.9,west,Credit Card
+ORD10228,"Mar 10, 2022",Wireless Earbuds,ELECTRONICS,32487.63,2,64975.26,3.4,South,upi
+ORD11261,07-08-2023,Laptop Pro,electronics,66406.88,3,199220.64,4.4,NORTH,UPI
+ORD11279,27-04-2025,Laptop Pro,Electronics,3560.87,2,7121.74,6.6,NORTH,UPI
+ORD10212,09-30-2023,Wireless Earbuds,electronics,-36005.49,2,-72010.98,1.6,NORTH,Debit card
+ORD10079,06-23-2022,Smartphone X,ELECTRONICS,87935.86,2,175871.72,,south,COD
+ORD10148,09-19-2022,Smartwatch Z,Gadgets,65413.57,1,65413.57,6.9,west,UPI
+ORD10814,23-04-2023,Laptop Pro,ELECTRONICS,50872.05,3,152616.15,,NORTH,cod
+ORD10894,27-09-2022,Wireless Earbuds,Gadgets,,4,184212.92,1,NORTH,Credit Card
+ORD10963,"Apr 03, 2022",Wireless Earbuds,electronics,-50300.38,2,-100600.76,3.1,west,UPI
+ORD10671,31-01-2023,Laptop Pro,Electronics,27795.53,two,111182.12,1,NORTH,upi
+ORD11166,26-12-2025,Wireless Earbuds,ELECTRONICS,31491.51,1,31491.51,2.8,East,upi
+ORD10555,18-11-2024,Smartphone X,ELECTRONICS,55579.88,3,166739.64,3.3,South,Debit card
+ORD10987,25-12-2024,Smartphone X,Electronics,62398.53,2,124797.06,1,west,Credit Card
+ORD10133,19-06-2023,Smartwatch Z,Electronics,66992.04,2,133984.08,3.5,South,Credit Card
+ORD11093,"Aug 03, 2022",Laptop Pro,Electronics,29920.85,2,59841.7,3.4,South,upi
+ORD10823,01-08-2025,Wireless Earbuds,Gadgets,34956.87,4,139827.48,3.1,East,upi
+ORD10408,"Jun 12, 2022",Smartwatch Z,ELECTRONICS,46657.64,3,139972.92,1.9,west,Credit Card
+ORD10999,08-10-2025,Laptop Pro,Gadgets,56636.88,3,169910.64,,South,Credit Card
+ORD10507,03-28-2025,Laptop Pro,electronics,62885.36,1,62885.36,1.4,west,Debit card
+ORD11165,08-04-2025,Laptop Pro,electronics,45175.38,3,135526.14,1.5,East,UPI
+ORD10504,07-06-2024,Gaming Console,ELECTRONICS,-91767.49,4,-367069.96,1.5,South,COD
+ORD11112,04-09-2022,Smartphone X,ELECTRONICS,84991.68,1,84991.68,3.7,East,COD
+ORD10347,01-01-2023,Smartwatch Z,Gadgets,35936.47,4,143745.88,3.9,NORTH,UPI
+ORD10386,05-05-2024,Gaming Console,electronics,-61107.54,two,-122215.08,4.2,west,Credit Card
+ORD10000,31-03-2023,Wireless Earbuds,Electronics,59934.28,3,179802.84,4.1,South,Credit Card
+ORD10360,16-09-2022,Smartphone X,ELECTRONICS,58932.79,2,117865.58,2.7,South,Debit card
+ORD10828,30-08-2023,Laptop Pro,Gadgets,42017.76,1,42017.76,2.6,south,Debit card
+ORD11397,04-12-2025,Smartphone X,electronics,57018.85,2,114037.7,5.4,South,Credit Card
+ORD10475,"Jan 12, 2024",Smartwatch Z,electronics,31967.99,4,127871.96,1.2,East,UPI
+ORD11262,13-01-2023,Gaming Console,electronics,46351.58,3,139054.74,5.9,south,UPI
+ORD10057,"Dec 26, 2025",Wireless Earbuds,electronics,65462.82,1,65462.82,3.5,East,UPI
+ORD10637,"Aug 23, 2024",Gaming Console,electronics,60733.06,1,60733.06,3.6,west,UPI
+ORD11288,"Aug 26, 2025",Smartphone X,ELECTRONICS,55239.01,1,55239.01,3.1,East,upi
+ORD11340,20-03-2025,Smartwatch Z,Electronics,17019.33,2,34038.66,1.2,East,upi
+ORD10924,"Apr 24, 2023",Gaming Console,Electronics,66142.45,4,264569.8,2.2,west,COD
+ORD10172,17-07-2022,Laptop Pro,electronics,93796.06,4,375184.24,,NORTH,COD
+ORD10450,05-06-2025,Gaming Console,Gadgets,49927.95,2,99855.9,1.8,south,Debit card
+ORD10125,15-04-2024,Smartphone X,Electronics,59242.07,2,118484.14,1.1,west,cod
+ORD10950,"Sep 03, 2024",Smartphone X,electronics,42588.19,4,170352.76,3.6,south,UPI
+ORD10530,07-07-2025,Smartwatch Z,ELECTRONICS,22208.55,1,22208.55,2,East,Credit Card
+ORD10857,26-07-2025,Laptop Pro,Gadgets,45815.56,1,45815.56,3.7,west,Debit card
+ORD10713,07-17-2024,Smartwatch Z,Electronics,35055.77,2,70111.54,5.4,South,UPI
+ORD10090,19-03-2022,Gaming Console,ELECTRONICS,64202.18,2,128404.36,4.7,west,Debit card
+ORD10526,"Sep 09, 2025",Laptop Pro,electronics,82840.3,2,165680.6,4,East,Credit Card
+ORD10181,09-01-2023,Laptop Pro,electronics,40616.49,3,121849.47,3.4,East,Credit Card
+ORD10875,04-18-2023,Smartphone X,ELECTRONICS,64958.21,1,64958.21,2.8,East,COD
+ORD10978,13-04-2025,Gaming Console,electronics,60741.82,4,242967.28,4.1,west,upi
+ORD10786,"Sep 10, 2025",Gaming Console,electronics,56639.61,3,169918.83,1.5,south,COD
+ORD10414,29-02-2024,Gaming Console,Gadgets,,2,159805.34,2.1,south,COD
+ORD10251,10-19-2023,Gaming Console,ELECTRONICS,,3,113760.9,1.3,west,cod
+ORD10069,23-01-2022,Smartphone X,Electronics,45882.67,4,183530.68,5.7,East,upi
+ORD10803,"Aug 02, 2023",Gaming Console,ELECTRONICS,73237.57,1,73237.57,3.4,west,cod
+ORD10131,25-02-2025,Wireless Earbuds,Gadgets,54151.97,2,108303.94,1.1,south,Credit Card
+ORD10300,27-11-2025,Gaming Console,ELECTRONICS,47703.12,1,47703.12,3.5,South,upi
+ORD10624,04-28-2022,Smartwatch Z,Gadgets,,1,36618.55,4.2,NORTH,Credit Card
+ORD10326,"Mar 28, 2024",Gaming Console,Electronics,56156.04,1,56156.04,2.6,west,UPI
+ORD10958,05-26-2025,Wireless Earbuds,Electronics,15123.04,1,15123.04,3.8,East,Credit Card
+ORD11098,04-10-2023,Wireless Earbuds,electronics,73798.23,4,295192.92,3.3,south,UPI
+ORD10499,30-12-2024,Gaming Console,Electronics,36249.13,1,36249.13,1.5,south,Credit Card
+ORD10985,02-01-2023,Smartwatch Z,electronics,24848.44,2,49696.88,2.9,South,Credit Card
+ORD10832,"Sep 27, 2024",Wireless Earbuds,Gadgets,52897.35,2,105794.7,2,NORTH,upi
+ORD10364,11-07-2024,Wireless Earbuds,electronics,41310.08,2,82620.16,4.5,west,Credit Card
+ORD10495,10-04-2023,Laptop Pro,Electronics,74450.02,4,297800.08,4.2,west,UPI
+ORD11376,04-11-2025,Smartwatch Z,ELECTRONICS,56721.42,2,113442.84,4.7,South,COD
+ORD10338,16-10-2022,Wireless Earbuds,Electronics,60353.18,3,181059.54,1.4,NORTH,UPI
+ORD10421,23-02-2025,Smartphone X,ELECTRONICS,69300.3,2,138600.6,4.5,NORTH,Debit card
+ORD10164,04-03-2024,Wireless Earbuds,ELECTRONICS,63802.88,2,127605.76,2.7,south,cod
+ORD10028,28-11-2023,Smartwatch Z,ELECTRONICS,56625.27,2,113250.54,1.4,South,Credit Card
+ORD10516,19-04-2023,Wireless Earbuds,electronics,70102.85,1,70102.85,1.4,East,UPI
+ORD10193,09-06-2024,Smartwatch Z,Electronics,73064.9,3,219194.7,2.6,west,UPI
+ORD10942,"Aug 10, 2025",Laptop Pro,ELECTRONICS,28892.26,1,28892.26,2.9,South,Credit Card
+ORD11343,12-07-2025,Smartwatch Z,Electronics,80420.12,3,241260.36,5.2,South,upi
+ORD11342,"Jun 10, 2023",Gaming Console,Gadgets,59333.42,3,178000.26,2.2,South,COD
+ORD10169,"Mar 15, 2024",Wireless Earbuds,ELECTRONICS,59959.97,3,179879.91,2.8,East,cod
+ORD10167,02-22-2025,Smartphone X,Gadgets,69670.09,4,278680.36,3.2,south,Debit card
+ORD10652,06-11-2024,Wireless Earbuds,Electronics,67209.47,3,201628.41,4.5,South,Debit card
+ORD10173,"Mar 10, 2023",Wireless Earbuds,Gadgets,33834.03,4,135336.12,2.9,south,Debit card
+ORD10518,03-04-2024,Smartphone X,electronics,45116.87,2,90233.74,4.7,west,upi
+ORD11196,02-09-2022,Smartwatch Z,Electronics,55931.51,1,55931.51,2,west,UPI
+ORD11164,15-03-2024,Laptop Pro,electronics,70304.56,2,140609.12,1.1,south,Debit card
+ORD10912,22-05-2024,Laptop Pro,Gadgets,12127.71,4,48510.84,1.5,west,Debit card
+ORD10491,"Sep 19, 2025",Gaming Console,electronics,-55083.48,1,-55083.48,2,south,cod
+ORD10073,06-23-2023,Laptop Pro,Electronics,54645.07,4,218580.28,3.4,South,Credit Card
+ORD11234,"Dec 05, 2024",Smartphone X,electronics,59997.28,4,239989.12,2.5,west,Debit card
+ORD10587,04-08-2025,Wireless Earbuds,Gadgets,-60159.83,2,-120319.66,3.4,south,Debit card
+ORD10750,"Jun 30, 2023",Smartwatch Z,Gadgets,44689.06,4,178756.24,3,NORTH,cod
+ORD10657,14-01-2023,Laptop Pro,ELECTRONICS,73469.48,2,146938.96,4.9,south,Credit Card
+ORD10842,10-20-2023,Wireless Earbuds,Gadgets,103562.2,2,207124.4,4.6,west,cod
+ORD10234,07-06-2023,Smartphone X,electronics,-55.19,two,-220.76,5,west,upi
+ORD10732,"Aug 12, 2022",Smartwatch Z,Electronics,35784.8,4,143139.2,1.4,East,Debit card
+ORD10214,"Aug 13, 2022",Laptop Pro,electronics,67027.09,1,67027.09,3.4,NORTH,UPI
+ORD10162,21-01-2025,Smartwatch Z,electronics,56454.37,1,56454.37,3.7,East,upi
+ORD10132,31-05-2024,Wireless Earbuds,Electronics,38212.7,4,152850.8,3.8,south,UPI
+ORD11089,"Sep 20, 2022",Gaming Console,Gadgets,31515.34,4,126061.36,2.7,south,Credit Card
+ORD10222,21-03-2022,Smartphone X,Gadgets,46261.9,1,46261.9,4.4,East,Credit Card
+ORD11209,09-07-2025,Smartphone X,Gadgets,72101.21,1,72101.21,3.8,west,upi
+ORD10934,17-01-2022,Smartphone X,Gadgets,64573.7,4,258294.8,3.3,East,Debit card
+ORD10185,30-12-2023,Gaming Console,Electronics,38012.5,4,152050,4.3,south,cod
+ORD10041,"Nov 21, 2023",Wireless Earbuds,ELECTRONICS,56575.02,4,226300.08,4.6,west,Debit card
+ORD10692,01-17-2025,Gaming Console,electronics,29516.26,4,118065.04,3,South,UPI
+ORD10108,01-04-2022,Smartphone X,electronics,9497.15,1,9497.15,2.6,NORTH,UPI
+ORD10038,06-08-2025,Wireless Earbuds,Gadgets,34214.83,4,136859.32,3.4,South,cod
+ORD10568,"Nov 26, 2023",Laptop Pro,Electronics,34819.19,1,34819.19,1.3,south,UPI
+ORD10964,29-12-2025,Smartwatch Z,Electronics,26383.74,4,105534.96,2.1,west,upi
+ORD11286,10-10-2025,Smartwatch Z,electronics,15922.57,4,63690.28,2.7,south,COD
+ORD10239,10-03-2024,Wireless Earbuds,ELECTRONICS,82392.24,1,82392.24,5.7,NORTH,Credit Card
+ORD10483,10-04-2022,Wireless Earbuds,electronics,44170.2,2,88340.4,4.5,NORTH,upi
+ORD10468,"Jan 12, 2025",Laptop Pro,ELECTRONICS,49512.91,2,99025.82,1.1,NORTH,COD
+ORD10890,08-08-2024,Smartwatch Z,ELECTRONICS,-7286.52,2,-14573.04,3.9,East,Credit Card
+ORD10947,03-08-2025,Wireless Earbuds,electronics,45810.95,1,45810.95,1.2,East,COD
+ORD10024,27-09-2024,Smartphone X,Gadgets,36461.56,4,145846.24,1.1,East,Debit card
+ORD10979,06-01-2024,Wireless Earbuds,Gadgets,51032.53,1,51032.53,1.9,NORTH,Debit card
+ORD11091,"Sep 12, 2023",Smartphone X,Gadgets,16775.14,2,33550.28,2.9,NORTH,cod
+ORD10068,"Feb 07, 2023",Wireless Earbuds,ELECTRONICS,43510.18,4,174040.72,3.2,South,Debit card
+ORD10884,11-10-2025,Laptop Pro,Gadgets,42764.74,1,42764.74,3.7,East,UPI
+ORD11246,18-12-2022,Gaming Console,Gadgets,69051.97,2,138103.94,1.2,west,upi
+ORD10366,"Jul 28, 2022",Gaming Console,electronics,44779.45,3,134338.35,4.2,East,COD
+ORD10505,"Feb 21, 2025",Smartphone X,electronics,47208.21,2,94416.42,2.2,NORTH,COD
+ORD10850,18-03-2022,Gaming Console,Electronics,13286.85,1,13286.85,1.1,South,cod
+ORD10705,"Nov 02, 2024",Wireless Earbuds,ELECTRONICS,85445.03,4,341780.12,4.1,East,cod
+ORD10383,04-03-2024,Smartwatch Z,Gadgets,57648.19,4,230592.76,4.8,NORTH,COD
+ORD10734,05-05-2025,Gaming Console,electronics,37080.72,4,148322.88,3.2,East,upi
+ORD10717,"Feb 18, 2025",Laptop Pro,Electronics,51746.62,1,51746.62,1.2,South,Debit card
+ORD11317,16-06-2023,Smartphone X,Electronics,45626.91,4,182507.64,1.9,East,Credit Card
+ORD10454,"Nov 22, 2022",Smartwatch Z,electronics,29967.6,3,89902.8,1.8,South,COD
+ORD10264,07-28-2022,Laptop Pro,Gadgets,69318.44,4,277273.76,5,south,Credit Card
+ORD10075,11-30-2025,Wireless Earbuds,electronics,25662.9,1,25662.9,6.5,west,COD
+ORD10914,27-07-2024,Smartphone X,electronics,46415.79,2,92831.58,3.8,NORTH,cod
+ORD10232,15-08-2023,Laptop Pro,Gadgets,,two,110961.45,1.4,west,upi
+ORD10444,04-15-2022,Smartphone X,electronics,-18171.91,4,-72687.64,2.7,south,cod
+ORD10395,09-12-2022,Smartphone X,ELECTRONICS,71672.19,2,143344.38,2.6,NORTH,Credit Card
+ORD10611,08-07-2023,Smartwatch Z,Gadgets,68248.7,2,136497.4,2.7,NORTH,cod
+ORD10176,08-08-2024,Smartphone X,Electronics,56835.12,1,56835.12,2.6,East,cod
+ORD10018,07-03-2022,Laptop Pro,electronics,54372.77,4,217491.08,2.3,East,Credit Card
+ORD11292,"Dec 22, 2022",Laptop Pro,electronics,24169.49,2,48338.98,,South,COD
+ORD11041,"Nov 30, 2022",Smartwatch Z,Electronics,35019.37,two,140077.48,4.9,NORTH,upi
+ORD10341,"Jul 08, 2023",Laptop Pro,ELECTRONICS,34031.22,3,102093.66,2.2,South,upi
+ORD11024,"Nov 04, 2022",Gaming Console,electronics,89528.81,3,268586.43,2.3,NORTH,upi
+ORD10879,09-02-2025,Wireless Earbuds,Gadgets,89166.95,3,267500.85,2.6,South,cod
+ORD10595,21-12-2024,Wireless Earbuds,Electronics,76261.37,2,152522.74,4.3,NORTH,Debit card
+ORD10061,"Jan 22, 2022",Wireless Earbuds,ELECTRONICS,67471.79,3,202415.37,1.9,South,cod
+ORD11242,"Sep 07, 2022",Smartwatch Z,Electronics,,1,72258.93,1.3,South,Debit card
+ORD10272,07-28-2022,Smartwatch Z,ELECTRONICS,69277.01,3,207831.03,3.4,NORTH,upi
+ORD11191,03-30-2023,Wireless Earbuds,Electronics,80260.19,1,80260.19,3.3,south,Debit card
+ORD10872,11-14-2025,Laptop Pro,ELECTRONICS,28731.96,3,86195.88,1.7,NORTH,cod
+ORD11105,"Jun 17, 2024",Smartwatch Z,Gadgets,49130.46,1,49130.46,2.8,south,upi
+ORD11388,02-11-2023,Smartwatch Z,ELECTRONICS,46689.44,4,186757.76,3.2,west,COD
+ORD10278,07-07-2022,Smartwatch Z,electronics,,3,296745.12,3.9,south,COD
+ORD11226,29-07-2025,Smartwatch Z,Gadgets,13759.22,4,55036.88,2.2,NORTH,UPI
+ORD10694,"Dec 15, 2025",Smartwatch Z,Electronics,72948.19,3,218844.57,4,south,Debit card
+ORD10368,12-05-2024,Wireless Earbuds,ELECTRONICS,70636.89,4,282547.56,2.7,NORTH,Debit card
+ORD11362,27-07-2023,Smartphone X,ELECTRONICS,15113.39,two,15113.39,2,south,upi
+ORD10036,24-03-2022,Laptop Pro,Electronics,51835.22,2,103670.44,1.6,NORTH,upi
+ORD10735,24-11-2025,Smartwatch Z,Gadgets,34016.16,4,136064.64,4,East,COD
+ORD11314,24-12-2023,Smartwatch Z,ELECTRONICS,60165.37,3,180496.11,3.5,south,upi
+ORD10662,15-11-2025,Laptop Pro,Electronics,12016.47,3,36049.41,1.6,NORTH,Debit card
+ORD11301,"Apr 07, 2022",Smartphone X,ELECTRONICS,36463.42,3,109390.26,2.1,west,upi
+ORD11333,13-07-2024,Wireless Earbuds,Gadgets,70767.55,3,212302.65,2.2,NORTH,Debit card
+ORD10998,03-06-2025,Smartphone X,ELECTRONICS,50959.23,3,152877.69,6.8,South,cod
+ORD11074,"Jan 21, 2024",Wireless Earbuds,Gadgets,37012.17,4,148048.68,4.7,south,upi
+ORD10977,"Nov 10, 2025",Wireless Earbuds,ELECTRONICS,-83229.4,4,-332917.6,,west,upi
+ORD10547,07-23-2022,Smartwatch Z,Gadgets,77282.81,3,231848.43,4.8,East,upi
+ORD11007,12-09-2023,Laptop Pro,Gadgets,-25937.35,4,-103749.4,1,south,COD
+ORD11176,08-11-2022,Wireless Earbuds,electronics,8283.68,1,8283.68,3.1,south,UPI
+ORD10688,"Jul 03, 2023",Laptop Pro,electronics,27166.22,3,81498.66,3.9,west,upi
+ORD10738,03-03-2023,Gaming Console,Gadgets,44163.77,2,88327.54,4,west,Debit card
+ORD10191,01-11-2024,Smartwatch Z,Gadgets,35030.27,3,105090.81,3.1,south,COD
+ORD10919,"Apr 26, 2024",Laptop Pro,Gadgets,9922.75,2,19845.5,4.9,south,COD
+ORD10456,11-10-2024,Gaming Console,Electronics,40130.74,1,40130.74,4.8,NORTH,COD
+ORD10868,04-22-2024,Smartwatch Z,Electronics,47853.96,1,47853.96,4.9,west,upi
+ORD10393,"Jul 27, 2023",Gaming Console,Electronics,42245.97,2,84491.94,4.4,NORTH,Credit Card
+ORD10675,21-10-2025,Wireless Earbuds,ELECTRONICS,33593.12,2,67186.24,2.5,East,upi
+ORD10760,"Aug 10, 2023",Smartwatch Z,ELECTRONICS,53887.69,1,53887.69,2.3,South,Credit Card
+ORD11334,20-12-2022,Smartwatch Z,Electronics,37920.39,3,113761.17,4.4,south,cod
+ORD10575,17-08-2022,Gaming Console,electronics,51520.11,3,154560.33,1.8,NORTH,cod
+ORD10728,26-11-2022,Smartphone X,electronics,48347.04,1,48347.04,2.7,South,COD
+ORD10412,28-03-2022,Smartwatch Z,Electronics,53821.98,1,53821.98,,NORTH,COD
+ORD10825,18-06-2022,Gaming Console,electronics,46390.2,1,46390.2,3.5,west,Debit card
+ORD10616,24-09-2023,Smartphone X,electronics,39075.11,3,117225.33,3.5,south,Debit card
+ORD10114,09-05-2023,Gaming Console,electronics,57545.93,2,115091.86,3.9,South,upi
+ORD10417,"Feb 11, 2023",Smartphone X,Electronics,21170.12,2,42340.24,4.7,South,COD
+ORD10479,03-01-2025,Gaming Console,ELECTRONICS,-38544.63,1,-38544.63,1.8,west,UPI
+ORD10969,13-12-2024,Laptop Pro,ELECTRONICS,80980.4,4,323921.6,1,NORTH,Debit card
+ORD10604,11-11-2024,Wireless Earbuds,electronics,80615.02,3,241845.06,2.5,south,UPI
+ORD10367,08-28-2024,Gaming Console,ELECTRONICS,52699.69,4,210798.76,4.2,South,upi
+ORD10089,07-21-2023,Gaming Console,electronics,65541,1,65541,5.4,South,upi
+ORD10848,08-08-2025,Smartwatch Z,Electronics,55773.87,3,167321.61,4,NORTH,UPI
+ORD10867,24-06-2023,Smartphone X,ELECTRONICS,54579.65,2,109159.3,4.3,South,COD
+ORD10380,26-07-2023,Smartwatch Z,electronics,46685.54,4,186742.16,4.5,East,cod
+ORD10753,05-07-2023,Wireless Earbuds,Electronics,58471.98,2,116943.96,1.3,south,cod
+ORD10498,29-11-2023,Smartphone X,Electronics,50967.7,4,203870.8,1.2,South,UPI
+ORD10011,20-07-2022,Wireless Earbuds,ELECTRONICS,57884.66,3,173653.98,1.7,west,upi
+ORD10396,20-06-2023,Wireless Earbuds,Electronics,22413.62,1,22413.62,1.2,East,Credit Card
+ORD10284,"Jun 16, 2022",Laptop Pro,ELECTRONICS,48195.45,2,96390.9,1.9,NORTH,Credit Card
+ORD10690,08-13-2022,Wireless Earbuds,ELECTRONICS,59601.19,3,178803.57,4.1,South,Credit Card
+ORD11212,"Dec 05, 2024",Gaming Console,Gadgets,64252.57,2,128505.14,4.1,NORTH,UPI
+ORD11385,26-07-2022,Smartwatch Z,electronics,58552.35,3,175657.05,2,South,Credit Card
+ORD10689,02-03-2023,Smartphone X,Electronics,46126.81,1,46126.81,1.4,South,Debit card
+ORD10851,04-24-2023,Smartwatch Z,Gadgets,-73424.92,4,-293699.68,3.8,south,UPI
+ORD10159,"Oct 03, 2023",Smartwatch Z,ELECTRONICS,77202.23,3,231606.69,2.7,East,UPI
+ORD10895,08-12-2023,Gaming Console,Gadgets,46974.53,1,46974.53,4.4,NORTH,upi
+ORD11173,"Jul 27, 2023",Wireless Earbuds,ELECTRONICS,69169.53,4,276678.12,1,East,cod
+ORD10257,31-10-2025,Wireless Earbuds,Electronics,43479.53,4,173918.12,2.8,East,Debit card
+ORD10335,14-09-2023,Laptop Pro,ELECTRONICS,69653.82,1,69653.82,1.7,East,Credit Card
+ORD11389,21-09-2022,Wireless Earbuds,electronics,36412.31,4,145649.24,4.3,west,COD
+ORD11039,24-06-2022,Wireless Earbuds,ELECTRONICS,-1167.37,3,-3502.11,2.2,East,Credit Card
+ORD10515,"Jun 26, 2022",Smartphone X,electronics,55932.57,3,167797.71,4.9,south,upi
+ORD11015,04-27-2022,Smartwatch Z,Gadgets,17934.79,3,53804.37,4.8,west,cod
+ORD10768,01-25-2024,Smartphone X,Electronics,42164.84,3,126494.52,1.8,south,upi
+ORD11298,27-02-2023,Gaming Console,ELECTRONICS,73594.5,3,220783.5,2.4,East,Debit card
+ORD10761,12-09-2022,Smartwatch Z,Gadgets,42936.67,1,42936.67,4.3,NORTH,cod
+ORD11087,"Nov 19, 2025",Laptop Pro,Gadgets,16630.97,2,33261.94,3.1,NORTH,upi
+ORD10521,07-21-2023,Smartwatch Z,electronics,62707.94,1,62707.94,1.5,west,Credit Card
+ORD10022,27-01-2023,Laptop Pro,ELECTRONICS,23066.44,4,92265.76,2.1,west,Credit Card
+ORD10356,26-04-2022,Gaming Console,Electronics,19468.96,two,38937.92,1.2,west,Credit Card
+ORD11253,03-14-2022,Smartphone X,Gadgets,45910.58,4,183642.32,2.4,South,UPI
+ORD10340,05-13-2024,Smartphone X,Gadgets,19519.7,4,78078.8,4.7,East,COD
+ORD10431,"Aug 12, 2024",Gaming Console,Electronics,48016.48,4,192065.92,2.6,west,UPI
+ORD10473,08-12-2022,Wireless Earbuds,ELECTRONICS,16628.32,2,33256.64,4,South,COD
+ORD10217,04-24-2022,Smartwatch Z,ELECTRONICS,3961.58,2,7923.16,2.9,NORTH,Credit Card
+ORD10911,02-16-2022,Laptop Pro,electronics,47304.63,1,47304.63,4.8,south,UPI
+ORD11187,02-07-2024,Gaming Console,Electronics,37647.82,3,112943.46,3.6,South,Credit Card
+ORD11011,"Dec 02, 2023",Smartwatch Z,Electronics,32541.41,4,130165.64,3.6,South,cod
+ORD11009,14-02-2025,Wireless Earbuds,Electronics,62090.31,3,186270.93,3.9,south,UPI
+ORD10093,05-07-2022,Wireless Earbuds,Gadgets,27140.59,4,108562.36,3.8,south,upi
+ORD11008,"Jul 08, 2025",Smartphone X,Gadgets,24991.85,4,99967.4,1.7,west,Debit card
+ORD11070,11-22-2024,Smartwatch Z,electronics,45241.13,4,180964.52,3.9,East,Credit Card
+ORD10696,06-03-2023,Laptop Pro,ELECTRONICS,40223.01,2,80446.02,1.7,west,UPI
+ORD10996,01-13-2022,Wireless Earbuds,Gadgets,41415.11,2,82830.22,1.4,south,upi
+ORD10153,01-10-2022,Laptop Pro,Gadgets,38725.51,2,77451.02,1.3,South,Debit card
+ORD11281,05-10-2022,Smartphone X,ELECTRONICS,66117.8,1,66117.8,5,west,upi
+ORD10043,"Oct 20, 2025",Wireless Earbuds,electronics,53511.07,2,107022.14,1.4,west,upi
+ORD10789,"Jan 29, 2024",Wireless Earbuds,electronics,56339.59,1,56339.59,4.9,South,upi
+ORD10580,26-07-2023,Laptop Pro,ELECTRONICS,51459.94,1,51459.94,3.7,NORTH,cod
+ORD10703,07-26-2024,Gaming Console,electronics,77810,2,155620,1.3,East,cod
+ORD11240,"Jul 07, 2022",Laptop Pro,electronics,28821.85,3,86465.55,4.7,NORTH,UPI
+ORD10487,01-08-2022,Gaming Console,ELECTRONICS,,1,48263.1,2.3,East,UPI
+ORD10559,"May 12, 2022",Wireless Earbuds,ELECTRONICS,47059.96,3,141179.88,1.9,west,upi
+ORD10801,"May 13, 2024",Laptop Pro,electronics,37013.37,3,111040.11,5,South,UPI
+ORD10512,29-08-2025,Gaming Console,ELECTRONICS,72110.52,3,216331.56,4.8,South,Debit card
+ORD10633,"Jun 16, 2022",Smartphone X,Gadgets,53693.61,1,53693.61,4.8,NORTH,cod
+ORD10265,04-15-2022,Smartphone X,Electronics,51641.1,1,51641.1,2.2,South,COD
+ORD11319,15-11-2024,Gaming Console,electronics,32130.14,4,128520.56,2.5,South,cod
+ORD10790,"Sep 30, 2022",Smartwatch Z,electronics,31291.23,3,93873.69,3.1,NORTH,cod
+ORD10116,17-10-2023,Smartwatch Z,Electronics,75338.22,1,75338.22,2.4,west,Credit Card
+ORD10740,11-21-2024,Gaming Console,ELECTRONICS,48779.13,4,195116.52,5.8,South,Credit Card
+ORD11081,12-26-2024,Gaming Console,electronics,15852.84,3,47558.52,1.2,South,COD
+ORD10830,10-12-2022,Wireless Earbuds,electronics,55342.53,4,221370.12,3.7,East,Debit card
+ORD10119,02-04-2024,Gaming Console,Electronics,87440.11,1,87440.11,2.9,west,UPI
+ORD10656,25-06-2023,Gaming Console,Electronics,63257.63,3,189772.89,2.3,East,UPI
+ORD10635,11-10-2022,Gaming Console,electronics,75976.23,4,303904.92,4.1,west,COD
+ORD10369,19-12-2022,Smartphone X,Electronics,20288.79,4,81155.16,1.9,west,COD
+ORD10268,29-01-2023,Smartwatch Z,Gadgets,43049.47,2,86098.94,3.1,south,upi
+ORD10655,05-01-2025,Smartphone X,Electronics,33727.09,2,67454.18,3.9,west,cod
+ORD10935,25-06-2023,Smartphone X,Electronics,40236.06,2,80472.12,4.6,East,cod
+ORD10822,"Nov 10, 2023",Gaming Console,Electronics,43815.82,1,43815.82,2.8,south,Debit card
+ORD10866,"May 08, 2025",Smartphone X,Gadgets,48131.32,3,144393.96,2.8,South,COD
+ORD10046,"Dec 12, 2024",Smartwatch Z,ELECTRONICS,-3103.52,1,-3103.52,,East,Debit card
+ORD11272,11-30-2024,Smartwatch Z,Gadgets,49371.22,3,148113.66,3.8,south,cod
+ORD10991,30-05-2025,Smartphone X,Gadgets,17473.61,2,34947.22,2.1,East,UPI
+ORD10876,11-04-2024,Laptop Pro,Electronics,45894.26,3,137682.78,4.1,South,COD
+ORD10773,03-05-2024,Gaming Console,electronics,56487.19,3,169461.57,3.7,south,Debit card
+ORD10004,06-07-2025,Gaming Console,Electronics,40610.51,4,162442.04,5,west,cod
+ORD11003,05-10-2022,Wireless Earbuds,ELECTRONICS,61441.86,4,245767.44,1.6,west,upi
+ORD11283,02-22-2023,Wireless Earbuds,Electronics,66903.16,1,66903.16,4,west,Credit Card
+ORD10263,01-03-2022,Wireless Earbuds,electronics,72875.08,3,218625.24,3.5,South,COD
+ORD11167,10-07-2024,Smartwatch Z,electronics,55107.68,4,220430.72,3.8,South,cod
+ORD11351,06-09-2022,Wireless Earbuds,Electronics,84253.35,2,168506.7,6.2,west,COD
+ORD10443,"Jul 10, 2024",Laptop Pro,electronics,86018.81,4,344075.24,1.3,South,UPI
+ORD11002,03-09-2023,Gaming Console,electronics,50533.62,2,101067.24,4.9,south,upi
+ORD11077,18-03-2023,Gaming Console,Gadgets,52867.77,1,52867.77,2.2,west,COD
+ORD10837,10-13-2023,Smartwatch Z,electronics,46633.84,3,139901.52,3.4,East,UPI
+ORD11321,"Oct 12, 2025",Laptop Pro,electronics,75142.98,3,225428.94,5.6,NORTH,COD
+ORD10304,10-18-2023,Laptop Pro,Gadgets,8432.47,2,16864.94,4.1,South,Debit card
+ORD11278,14-10-2022,Wireless Earbuds,ELECTRONICS,26282.79,1,26282.79,2.4,west,UPI
+ORD10313,"May 24, 2022",Gaming Console,Electronics,28934.83,3,86804.49,2,south,Credit Card
+ORD10149,"May 31, 2025",Laptop Pro,Electronics,63341.12,2,126682.24,1.2,NORTH,UPI
+ORD10574,07-01-2024,Gaming Console,Gadgets,,1,61166.54,3.5,East,upi
+ORD10050,"Jul 19, 2022",Smartphone X,Gadgets,11624.58,1,11624.58,5,west,COD
+ORD11155,26-01-2024,Smartwatch Z,Electronics,,2,169785.56,1.1,west,Debit card
+ORD10726,03-18-2023,Laptop Pro,electronics,58576.33,1,58576.33,4.2,NORTH,COD
+ORD10833,03-11-2024,Smartphone X,Gadgets,37704.54,4,150818.16,2.5,NORTH,cod
+ORD11115,19-10-2022,Smartwatch Z,Electronics,61358.83,1,61358.83,1.9,west,COD
+ORD10470,"Jun 01, 2024",Smartwatch Z,Electronics,27443.46,3,82330.38,1.9,west,UPI
+ORD10971,"Apr 25, 2023",Smartphone X,ELECTRONICS,22971.08,3,68913.24,1.1,south,upi
+ORD10653,"Jun 06, 2024",Smartphone X,ELECTRONICS,38338.45,4,153353.8,4.7,South,cod
+ORD10399,14-07-2025,Wireless Earbuds,electronics,28783.46,2,57566.92,3,East,Credit Card
+ORD10511,29-04-2024,Laptop Pro,Gadgets,90068.15,3,270204.45,3.3,west,Credit Card
+ORD10320,"Mar 26, 2023",Wireless Earbuds,electronics,-25169.98,2,-50339.96,2.5,East,Credit Card
+ORD10019,19-04-2022,Smartphone X,Gadgets,67635.22,2,135270.44,1.8,south,upi
+ORD10684,"Apr 14, 2023",Wireless Earbuds,ELECTRONICS,65567.22,1,65567.22,3.5,south,COD
+ORD10035,13-11-2024,Smartphone X,electronics,31592.18,3,94776.54,6.3,South,COD
+ORD10902,03-27-2022,Wireless Earbuds,electronics,69062.5,3,207187.5,1,South,COD
+ORD10827,"Oct 03, 2024",Smartwatch Z,electronics,34079.48,3,102238.44,3,East,upi
+ORD11326,08-11-2025,Wireless Earbuds,Gadgets,51835.05,3,155505.15,3.5,south,Debit card
+ORD10407,11-16-2023,Smartphone X,Electronics,59611.24,1,59611.24,1.1,NORTH,COD
+ORD10920,06-08-2023,Smartwatch Z,Electronics,16941.63,1,16941.63,5.5,NORTH,Debit card
+ORD10537,04-22-2025,Wireless Earbuds,Electronics,61061.47,4,244245.88,2,East,cod
+ORD10758,04-12-2022,Laptop Pro,Gadgets,50654.49,two,50654.49,1.1,East,upi
+ORD11062,08-05-2025,Gaming Console,electronics,2174.51,3,6523.53,3,South,COD
+ORD10245,10-24-2025,Wireless Earbuds,ELECTRONICS,41850.8,2,83701.6,5,East,COD
+ORD11127,12-03-2022,Laptop Pro,electronics,44607.17,3,133821.51,2.8,west,Credit Card
+ORD10784,"Dec 10, 2025",Wireless Earbuds,Electronics,55058.74,2,110117.48,2.9,East,COD
+ORD10489,01-02-2023,Wireless Earbuds,electronics,56930.08,3,170790.24,1.9,East,COD
+ORD10154,24-04-2024,Smartphone X,Gadgets,41333.93,two,82667.86,4.6,East,cod
+ORD10961,"May 06, 2025",Laptop Pro,electronics,30113.01,2,60226.02,3.1,south,Debit card
+ORD10853,24-07-2024,Laptop Pro,Electronics,41783.71,1,41783.71,4.6,East,Debit card
+ORD10625,20-02-2023,Gaming Console,electronics,70798.09,4,283192.36,2,west,COD
+ORD10685,12-11-2024,Smartwatch Z,electronics,38976.29,3,116928.87,1.2,south,Credit Card
+ORD10569,15-05-2024,Wireless Earbuds,Electronics,50669.18,4,202676.72,3.2,west,Debit card
+ORD10939,"Feb 03, 2023",Gaming Console,electronics,89633.84,1,89633.84,3.8,South,UPI
+ORD10017,21-11-2022,Smartwatch Z,Electronics,10806.6,1,10806.6,4.9,South,upi
+ORD10127,"Aug 14, 2022",Wireless Earbuds,Electronics,52521.9,3,157565.7,3.6,south,COD
+ORD10927,"Nov 17, 2025",Wireless Earbuds,Gadgets,51305.36,4,205221.44,3,South,upi
+ORD10980,02-16-2023,Smartphone X,ELECTRONICS,42496.07,2,84992.14,4.4,South,Credit Card
+ORD10792,"Jan 03, 2024",Laptop Pro,ELECTRONICS,56790.29,1,56790.29,1.3,south,upi
+ORD10190,12-03-2024,Wireless Earbuds,Gadgets,56646.28,2,113292.56,2.9,west,Debit card
+ORD11139,"Apr 25, 2023",Smartphone X,electronics,29222.8,3,87668.4,3.7,south,Credit Card
+ORD10992,11-15-2022,Wireless Earbuds,electronics,46392.17,2,92784.34,1.7,NORTH,UPI
+ORD10354,08-09-2022,Wireless Earbuds,Electronics,61195.81,2,122391.62,3.5,East,Credit Card
+ORD11233,21-06-2023,Laptop Pro,ELECTRONICS,50478.06,1,50478.06,2.6,south,Debit card
+ORD10606,15-11-2024,Gaming Console,ELECTRONICS,36226.66,3,108679.98,4,NORTH,Debit card
+ORD10180,09-07-2023,Smartphone X,Gadgets,73588.8,4,294355.2,4.9,East,COD
+ORD10301,05-15-2022,Smartphone X,ELECTRONICS,,1,53100.73,2.9,South,UPI
+ORD10496,10-08-2023,Laptop Pro,electronics,70605.67,4,282422.68,3.2,west,Credit Card
+ORD11273,"Sep 13, 2024",Gaming Console,ELECTRONICS,-33031.43,2,-66062.86,4.2,west,cod
+ORD11237,11-16-2025,Laptop Pro,ELECTRONICS,52823.39,2,105646.78,6.6,East,Debit card
+ORD11219,07-26-2023,Smartwatch Z,ELECTRONICS,44154.8,2,88309.6,4.4,NORTH,upi
+ORD10517,16-11-2025,Smartphone X,ELECTRONICS,,3,134857.2,4,South,upi
+ORD11069,18-10-2023,Smartphone X,Gadgets,50995.47,1,50995.47,3.9,south,upi
+ORD10476,10-09-2022,Smartphone X,ELECTRONICS,-54489.04,4,-217956.16,1.1,East,Credit Card
+ORD10157,02-05-2024,Laptop Pro,electronics,21850.72,3,65552.16,4.9,NORTH,upi
+ORD10016,03-06-2025,Gaming Console,Gadgets,54177.27,2,108354.54,3.3,NORTH,Credit Card
+ORD11072,05-24-2022,Smartwatch Z,ELECTRONICS,40423.25,3,121269.75,2.3,south,COD
+ORD10546,24-11-2023,Wireless Earbuds,ELECTRONICS,54478.28,4,217913.12,3.1,East,COD
+ORD10658,08-08-2023,Smartphone X,Electronics,-48112.56,two,-144337.68,1.4,East,Credit Card
+ORD11208,12-10-2025,Wireless Earbuds,ELECTRONICS,21559.87,two,21559.87,4.3,NORTH,Credit Card
+ORD11019,01-29-2024,Smartphone X,ELECTRONICS,25103.38,2,50206.76,4.7,East,Credit Card
+ORD11131,01-16-2024,Smartphone X,Electronics,53684.96,3,161054.88,2.2,NORTH,UPI
+ORD10959,06-05-2025,Gaming Console,electronics,52380.37,1,52380.37,2.5,South,Credit Card
+ORD11391,13-07-2025,Wireless Earbuds,Electronics,39413.36,2,78826.72,3.2,South,UPI
+ORD10283,13-03-2024,Smartphone X,Electronics,76908.4,2,153816.8,4.7,south,upi
+ORD10797,29-05-2022,Gaming Console,electronics,32720.98,two,130883.92,4.4,south,upi
+ORD10225,"Feb 12, 2024",Smartwatch Z,ELECTRONICS,67632.8,2,135265.6,1.3,East,COD
+ORD10026,19-08-2025,Smartphone X,Gadgets,67886.65,1,67886.65,4.7,west,COD
+ORD10437,05-07-2024,Smartwatch Z,ELECTRONICS,45398.87,3,136196.61,4.4,NORTH,cod
+ORD11395,10-24-2023,Smartwatch Z,Gadgets,,2,127708.92,4,East,Debit card
+ORD10229,28-12-2023,Smartwatch Z,Electronics,22344.01,3,67032.03,2.4,west,Credit Card
+ORD10037,"Feb 25, 2023",Laptop Pro,ELECTRONICS,10248.62,3,30745.86,2.6,NORTH,Debit card
+ORD10749,"Nov 21, 2022",Smartphone X,ELECTRONICS,33072.87,4,132291.48,4.4,South,COD
+ORD11045,"May 01, 2025",Smartphone X,Electronics,26034.33,3,78102.99,1.7,East,Debit card
+ORD10469,02-09-2025,Smartphone X,Electronics,92845.41,3,278536.23,1.9,west,cod
+ORD11260,10-28-2025,Smartwatch Z,Gadgets,55063.3,3,165189.9,3.5,South,cod
+ORD11144,01-13-2025,Smartphone X,electronics,60977.68,4,243910.72,4.1,south,upi
+ORD10687,17-03-2023,Laptop Pro,Electronics,37014.69,4,148058.76,3.1,South,upi
+ORD11360,"Feb 01, 2022",Smartwatch Z,Gadgets,80327.88,4,321311.52,3.5,NORTH,UPI
+ORD10639,31-08-2025,Wireless Earbuds,Electronics,,4,270367.4,,west,UPI
+ORD11276,"May 10, 2025",Laptop Pro,ELECTRONICS,48090.72,1,48090.72,2.8,west,COD
+ORD11158,11-21-2025,Gaming Console,Electronics,21647.52,3,64942.56,5.6,NORTH,cod
+ORD11232,09-23-2022,Smartwatch Z,ELECTRONICS,52897.76,3,158693.28,6.4,East,COD
+ORD11345,05-12-2024,Laptop Pro,ELECTRONICS,84947.26,2,169894.52,4.6,East,Credit Card
+ORD10800,"Nov 30, 2024",Gaming Console,Electronics,,2,129372.18,2.7,NORTH,upi
+ORD10160,22-02-2023,Gaming Console,ELECTRONICS,43953.52,4,175814.08,3.3,west,UPI
+ORD10956,09-05-2025,Smartwatch Z,electronics,43427.63,3,130282.89,3.7,NORTH,Debit card
+ORD11186,"Dec 09, 2024",Wireless Earbuds,Gadgets,46264.56,3,138793.68,2.5,NORTH,COD
+ORD10821,17-12-2023,Gaming Console,ELECTRONICS,50137.37,4,200549.48,1.1,South,upi
+ORD11252,03-17-2023,Gaming Console,electronics,57726.47,2,115452.94,4,East,Credit Card
+ORD10877,"Oct 21, 2023",Smartwatch Z,Electronics,96683.27,3,290049.81,4.5,NORTH,upi
+ORD10913,"Jan 31, 2025",Smartphone X,electronics,54265.87,2,108531.74,4.2,East,Credit Card
+ORD10152,"Oct 31, 2025",Smartphone X,ELECTRONICS,58258.63,4,233034.52,4.5,South,cod
+ORD11355,11-11-2023,Gaming Console,Gadgets,75029.13,3,225087.39,3.3,East,Debit card
+ORD10509,"Oct 27, 2024",Wireless Earbuds,Gadgets,88280.63,3,264841.89,3.8,NORTH,COD
+ORD11135,16-05-2023,Gaming Console,Gadgets,49669.28,3,149007.84,,south,Debit card
+ORD11239,11-27-2025,Gaming Console,Gadgets,81947.46,1,81947.46,3.7,South,Credit Card
+ORD10103,"Aug 12, 2024",Wireless Earbuds,Electronics,51603.97,3,154811.91,2.4,East,Credit Card
+ORD10586,"Jan 06, 2023",Smartphone X,Electronics,13275.89,4,53103.56,2.1,west,cod
+ORD11310,"Aug 10, 2024",Gaming Console,Electronics,39475.04,2,78950.08,2.9,south,Credit Card
+ORD11143,14-03-2022,Smartphone X,electronics,,4,242626.68,4.2,East,COD
+ORD10053,12-01-2024,Wireless Earbuds,ELECTRONICS,50078.75,1,50078.75,2,East,Credit Card
+ORD10151,19-01-2024,Smartwatch Z,Gadgets,85408.63,3,256225.89,1.5,NORTH,UPI
+ORD10403,07-11-2022,Wireless Earbuds,electronics,59250.97,4,237003.88,3.6,south,Debit card
+ORD10422,"Nov 15, 2025",Smartwatch Z,Gadgets,38821.56,1,38821.56,2.5,west,UPI
+ORD10207,"May 22, 2025",Laptop Pro,electronics,60080.93,1,60080.93,1.7,NORTH,Debit card
+ORD11399,27-06-2025,Smartwatch Z,ELECTRONICS,75096.24,1,75096.24,4.7,South,upi
+ORD11122,09-30-2022,Smartwatch Z,ELECTRONICS,78340.41,4,313361.64,5,East,UPI
+ORD10008,"Jun 01, 2023",Laptop Pro,ELECTRONICS,31839.52,2,63679.04,1.4,East,UPI
+ORD11014,02-06-2024,Smartwatch Z,Electronics,23117.71,1,23117.71,1.1,west,upi
+ORD11325,"May 06, 2025",Wireless Earbuds,electronics,52756.89,4,211027.56,1.1,East,COD
+ORD11060,"Feb 20, 2025",Wireless Earbuds,electronics,58790.02,4,235160.08,3.7,South,Credit Card
+ORD10452,24-02-2023,Wireless Earbuds,electronics,32473.63,1,32473.63,1.3,south,COD
+ORD10253,21-05-2022,Smartwatch Z,electronics,81602.68,3,244808.04,5.5,East,upi
+ORD10896,"Apr 09, 2025",Smartwatch Z,Gadgets,47294.91,1,47294.91,4.9,south,UPI
+ORD11290,04-05-2024,Smartphone X,Gadgets,55912.49,1,55912.49,4,west,Debit card
+ORD10880,"Jun 17, 2025",Smartwatch Z,ELECTRONICS,49397.11,4,197588.44,4.6,west,Debit card
+ORD11395,10-24-2023,Smartwatch Z,Gadgets,,2,127708.92,4,East,Debit card
+ORD10623,12-03-2023,Gaming Console,Electronics,41101.08,2,82202.16,4.1,South,Credit Card
+ORD10345,05-11-2022,Smartphone X,Gadgets,19616.4,3,58849.2,3.4,South,UPI
+ORD11268,"Nov 07, 2025",Smartphone X,electronics,40255.94,3,120767.82,,NORTH,UPI
+ORD10262,30-04-2024,Wireless Earbuds,Gadgets,20428.28,4,81713.12,1.7,South,COD
+ORD10150,20-04-2022,Gaming Console,electronics,8199.65,3,24598.95,3.2,South,cod
+ORD10472,03-09-2022,Smartphone X,ELECTRONICS,44852.47,2,89704.94,4.8,west,UPI
+ORD10640,09-04-2025,Wireless Earbuds,electronics,69920.95,1,69920.95,4.9,East,Credit Card
+ORD10917,30-10-2024,Smartwatch Z,ELECTRONICS,37401.89,3,112205.67,4.6,South,cod
+ORD11392,07-11-2025,Smartphone X,Gadgets,50284.88,two,150854.64,2,NORTH,UPI
+ORD10550,06-08-2025,Laptop Pro,Gadgets,21947.89,1,21947.89,4.6,NORTH,Credit Card
+ORD10928,02-20-2023,Smartphone X,electronics,36105.74,2,72211.48,3.9,south,Credit Card
+ORD10488,31-05-2022,Smartwatch Z,Electronics,40645.98,1,40645.98,1.9,South,cod
+ORD11338,"Nov 02, 2024",Smartwatch Z,Gadgets,56481.14,4,225924.56,2.4,west,cod
+ORD11171,07-04-2022,Wireless Earbuds,ELECTRONICS,48995.91,3,146987.73,2.9,East,cod
+ORD10146,10-09-2022,Smartphone X,ELECTRONICS,33635.59,3,100906.77,3.4,south,Credit Card
+ORD10402,05-07-2023,Smartphone X,Gadgets,,2,34424.14,3.1,west,upi
+ORD10954,08-03-2023,Gaming Console,Electronics,71503.52,1,71503.52,3.7,west,COD
+ORD11387,13-09-2022,Laptop Pro,ELECTRONICS,34324.93,4,137299.72,3.6,South,cod
+ORD10659,10-03-2023,Gaming Console,electronics,48282.14,2,96564.28,1.9,south,UPI
+ORD10463,02-09-2024,Smartphone X,ELECTRONICS,53951.99,3,161855.97,3.1,NORTH,upi
+ORD10186,"Sep 18, 2025",Gaming Console,electronics,80324.67,1,80324.67,4,south,upi
+ORD11147,09-30-2025,Smartphone X,Gadgets,50180.76,1,50180.76,,south,COD
+ORD11224,"Jun 10, 2022",Smartphone X,electronics,29666.34,4,118665.36,4.6,NORTH,Debit card
+ORD10608,08-03-2023,Gaming Console,Gadgets,37731.95,4,150927.8,,East,Credit Card
+ORD10143,02-08-2025,Laptop Pro,Electronics,-68982.86,4,-275931.44,6.8,south,Debit card
+ORD10751,22-09-2024,Gaming Console,Gadgets,59668.51,4,238674.04,1.8,NORTH,Debit card
+ORD10981,03-16-2024,Laptop Pro,electronics,43645.7,3,130937.1,3.3,NORTH,Credit Card
+ORD10197,23-09-2025,Smartphone X,Gadgets,78886.78,2,157773.56,2.4,East,COD
+ORD10883,"Jan 17, 2025",Laptop Pro,Electronics,,2,-118707.72,1.5,South,Debit card
+ORD10279,17-07-2023,Wireless Earbuds,ELECTRONICS,52584.42,3,157753.26,4.7,South,Credit Card
+ORD10293,25-12-2025,Laptop Pro,Gadgets,44785.3,2,89570.6,1.7,NORTH,cod
+ORD11346,08-05-2024,Wireless Earbuds,Electronics,44596.8,3,133790.4,1.4,NORTH,Credit Card
+ORD10400,12-09-2023,Laptop Pro,electronics,100538.65,2,201077.3,,NORTH,cod
+ORD10122,20-10-2024,Laptop Pro,Gadgets,47431.76,2,94863.52,4.7,south,COD
+ORD11207,14-07-2024,Smartphone X,ELECTRONICS,,3,201271.5,4.8,south,COD
+ORD10202,09-17-2022,Wireless Earbuds,Gadgets,8651.16,3,25953.48,,west,cod
+ORD10835,01-14-2024,Gaming Console,ELECTRONICS,35616.93,4,142467.72,4,South,upi
+ORD10246,04-06-2024,Smartwatch Z,electronics,70125.86,1,70125.86,1.6,south,COD
+ORD10233,"Jul 26, 2025",Wireless Earbuds,electronics,40257.49,2,80514.98,1.7,NORTH,UPI
+ORD10254,24-08-2024,Smartwatch Z,ELECTRONICS,43630.43,1,43630.43,1.9,South,upi
+ORD11153,27-03-2025,Gaming Console,Electronics,31472.38,4,125889.52,1.9,west,Debit card
+ORD10384,"Jun 22, 2023",Wireless Earbuds,ELECTRONICS,73342.06,1,73342.06,1.5,East,Debit card
+ORD11304,03-06-2024,Smartphone X,Electronics,35709.06,2,71418.12,1.9,west,upi
+ORD10854,27-03-2022,Wireless Earbuds,Electronics,30711.91,1,30711.91,,South,upi
+ORD10219,15-12-2024,Smartphone X,ELECTRONICS,30241.28,3,90723.84,3.1,NORTH,upi
+ORD10641,06-03-2024,Laptop Pro,Gadgets,34864.1,3,104592.3,1.8,East,Credit Card
+ORD10001,28-04-2024,Smartphone X,Gadgets,47234.71,1,47234.71,1.6,East,Credit Card
+ORD10112,"Apr 10, 2024",Smartwatch Z,electronics,85309.08,4,341236.32,4.7,south,Debit card
+ORD10698,01-12-2024,Smartphone X,electronics,39444.46,1,39444.46,4.7,west,Debit card
+ORD10778,02-11-2022,Smartphone X,Electronics,-60278.16,4,-241112.64,1.9,East,Debit card
+ORD10951,07-25-2022,Gaming Console,electronics,92076.12,4,368304.48,3.7,NORTH,upi
+ORD11299,"Apr 04, 2022",Smartwatch Z,ELECTRONICS,53882.15,two,215528.6,3.7,south,cod
+ORD11291,08-02-2022,Smartphone X,Gadgets,19667.15,3,59001.45,1.6,NORTH,UPI
+ORD11335,23-07-2024,Smartwatch Z,ELECTRONICS,45409.03,2,90818.06,2.4,south,UPI
+ORD10441,12-18-2022,Gaming Console,Gadgets,59828.09,3,179484.27,,South,COD
+ORD11136,09-19-2025,Smartwatch Z,Gadgets,24869.86,2,49739.72,1.4,south,UPI
+ORD11256,05-22-2024,Wireless Earbuds,ELECTRONICS,27387.69,1,27387.69,4.9,East,Credit Card
+ORD10663,07-02-2024,Gaming Console,electronics,51568.59,2,103137.18,4.5,south,cod
+ORD11354,11-05-2024,Smartphone X,ELECTRONICS,67043.58,2,134087.16,1.4,west,Credit Card
+ORD11257,27-07-2024,Smartphone X,electronics,62454.22,4,249816.88,1.8,west,Debit card
+ORD11313,14-04-2023,Smartphone X,electronics,27799.93,3,83399.79,4.6,south,Debit card
+ORD10317,"Aug 15, 2025",Smartphone X,Electronics,31252.89,2,62505.78,1.3,west,UPI
+ORD10648,"Oct 30, 2023",Smartphone X,Electronics,29103.82,4,116415.28,2.6,NORTH,COD
+ORD10709,11-11-2024,Gaming Console,ELECTRONICS,45926.52,3,137779.56,4.6,south,COD
+ORD11282,12-08-2024,Laptop Pro,ELECTRONICS,44422.33,3,133266.99,3.1,south,Credit Card
+ORD10972,"Sep 22, 2024",Smartphone X,ELECTRONICS,53466.83,1,53466.83,2.2,west,UPI
+ORD10627,03-18-2023,Wireless Earbuds,ELECTRONICS,,4,273707.96,4.6,South,Credit Card
+ORD10632,27-01-2023,Smartphone X,ELECTRONICS,42693.57,4,170774.28,1.4,South,UPI
+ORD11306,08-16-2022,Smartphone X,ELECTRONICS,31269.87,2,62539.74,4.1,west,Credit Card
+ORD11248,23-08-2025,Gaming Console,electronics,81083.21,4,324332.84,2.8,East,cod
+ORD10514,07-02-2022,Smartphone X,ELECTRONICS,34567.43,4,138269.72,6.2,South,Credit Card
+ORD11254,26-07-2023,Smartphone X,electronics,33851.29,4,135405.16,3.5,East,upi
+ORD11365,"Jun 21, 2024",Smartphone X,electronics,32792.3,1,32792.3,3.8,South,Debit card
+ORD10795,"Apr 06, 2025",Gaming Console,ELECTRONICS,43936.4,1,43936.4,2.2,East,Debit card
+ORD10645,05-05-2025,Wireless Earbuds,Electronics,68556.8,1,68556.8,3.3,west,upi
+ORD11012,11-07-2025,Wireless Earbuds,electronics,42833.2,4,171332.8,5,East,cod
+ORD10556,07-03-2022,Laptop Pro,Electronics,60487.25,2,120974.5,2.9,East,Debit card
+ORD10681,05-29-2022,Laptop Pro,Gadgets,101163.99,1,101163.99,3.3,south,Credit Card
+ORD10577,06-26-2025,Smartphone X,Gadgets,51625.54,4,206502.16,2.4,south,COD
+ORD11109,06-20-2023,Smartwatch Z,Electronics,46512.91,1,46512.91,4.7,East,UPI
+ORD11266,17-11-2025,Wireless Earbuds,electronics,15955.73,4,63822.92,1.8,South,Debit card
+ORD11183,10-16-2023,Laptop Pro,Electronics,54225.67,4,216902.68,5,South,Debit card
+ORD10524,06-26-2022,Laptop Pro,ELECTRONICS,32296.73,1,32296.73,3.4,NORTH,COD
+ORD11059,"Nov 11, 2024",Smartwatch Z,electronics,63531.96,two,63531.96,2.4,south,cod
+ORD10540,03-31-2025,Wireless Earbuds,ELECTRONICS,80290.35,1,80290.35,4.9,south,Credit Card
+ORD11194,04-08-2023,Smartphone X,electronics,71484.94,1,71484.94,2.5,west,COD
+ORD10748,20-03-2024,Smartwatch Z,Electronics,59694.66,4,238778.64,1.7,NORTH,Credit Card
+ORD11368,24-11-2023,Smartwatch Z,electronics,71653.82,1,71653.82,1.3,NORTH,cod
+ORD10484,01-03-2022,Wireless Earbuds,electronics,65433.97,1,65433.97,3.7,west,UPI
+ORD10095,06-10-2022,Smartwatch Z,electronics,77640.09,2,155280.18,,South,Credit Card
+ORD11020,07-01-2023,Wireless Earbuds,ELECTRONICS,50285.46,two,150856.38,,East,upi
+ORD10563,21-11-2022,Laptop Pro,electronics,82782.34,1,82782.34,3.8,south,cod
+ORD11264,02-05-2022,Laptop Pro,Gadgets,36674.32,4,146697.28,6,East,Debit card
+ORD10742,24-01-2025,Laptop Pro,electronics,70767.78,2,141535.56,1.4,west,UPI
+ORD10863,30-04-2023,Gaming Console,ELECTRONICS,58185.17,3,174555.51,2.6,west,upi
+ORD10891,"Dec 16, 2022",Wireless Earbuds,Gadgets,112754.97,1,112754.97,4.9,East,UPI
+ORD11038,"Jul 05, 2023",Smartphone X,Electronics,63804.74,1,63804.74,5.5,South,Debit card
+ORD10206,28-06-2024,Gaming Console,Electronics,30285.48,2,60570.96,1.9,East,Credit Card
+ORD10392,26-12-2022,Gaming Console,Electronics,37744.23,1,37744.23,1.2,west,COD
+ORD10794,19-10-2023,Gaming Console,Gadgets,49611.61,1,49611.61,4.3,NORTH,upi
+ORD10870,"Apr 17, 2023",Smartphone X,Gadgets,84650.3,2,169300.6,2,NORTH,Credit Card
+ORD10397,"Nov 24, 2024",Gaming Console,Gadgets,35381.4,2,70762.8,1.3,East,COD
+ORD10766,11-07-2025,Smartwatch Z,ELECTRONICS,60916.34,4,243665.36,1.3,South,Debit card
+ORD11358,03-11-2023,Wireless Earbuds,Gadgets,59334.32,two,59334.32,1.4,NORTH,upi
+ORD11241,13-03-2024,Smartwatch Z,ELECTRONICS,79633.27,4,318533.08,3,East,Credit Card
+ORD11028,07-03-2025,Wireless Earbuds,ELECTRONICS,47449.02,two,142347.06,3.2,south,cod
+ORD10642,"Oct 09, 2024",Smartphone X,Electronics,55623.59,2,111247.18,1.3,South,Credit Card
+ORD10612,20-06-2025,Gaming Console,Gadgets,,3,67987.29,3.1,South,cod
+ORD10960,04-14-2023,Smartwatch Z,electronics,45428,1,45428,3.9,South,upi
+ORD10725,27-04-2022,Wireless Earbuds,electronics,41008.48,4,164033.92,1.5,NORTH,cod
+ORD10683,06-10-2023,Gaming Console,Gadgets,87732.29,2,175464.58,4.2,East,Credit Card
+ORD10098,28-01-2025,Laptop Pro,electronics,54645.92,3,163937.76,1.1,west,Credit Card
+ORD10804,10-03-2024,Smartphone X,Electronics,55303.11,1,55303.11,1.3,south,Credit Card
+ORD10406,"Sep 21, 2024",Laptop Pro,Gadgets,37016.17,3,111048.51,4.8,NORTH,upi
+ORD10502,24-03-2022,Gaming Console,ELECTRONICS,,1,52786.85,3.3,west,COD
+ORD11071,21-11-2024,Smartwatch Z,Gadgets,55380.48,3,166141.44,2.6,East,cod
+ORD11056,15-02-2023,Smartphone X,ELECTRONICS,43586.65,1,43586.65,1.5,East,Debit card
+ORD10929,14-10-2022,Wireless Earbuds,Gadgets,-41814.35,1,-41814.35,4,west,UPI
+ORD10779,22-12-2022,Wireless Earbuds,ELECTRONICS,53591.64,1,53591.64,4.2,south,cod
+ORD10200,01-10-2023,Smartphone X,Electronics,49705.63,4,198822.52,1.3,South,COD
+ORD10134,24-08-2023,Laptop Pro,ELECTRONICS,57240.28,1,57240.28,4.9,East,COD
+ORD11051,11-11-2023,Laptop Pro,Electronics,60450.28,1,60450.28,4.8,west,cod
+ORD10040,20-01-2025,Smartphone X,electronics,68308.04,4,273232.16,1.9,west,Credit Card
+ORD11017,16-05-2022,Gaming Console,Electronics,70150.27,1,70150.27,3.3,west,COD
+ORD10230,"Aug 01, 2022",Smartwatch Z,Electronics,50553.82,1,50553.82,1,NORTH,Debit card
+ORD10378,09-08-2024,Smartphone X,Electronics,11326.43,4,45305.72,,East,Debit card
+ORD10288,03-02-2025,Smartwatch Z,Electronics,71419.93,two,71419.93,3.4,NORTH,upi
+ORD10418,11-11-2024,Gaming Console,Electronics,41071.33,3,123213.99,1.7,South,Debit card
+ORD10391,09-24-2025,Wireless Earbuds,ELECTRONICS,35927.6,4,143710.4,3.3,west,cod
+ORD10592,"Mar 02, 2025",Smartphone X,Electronics,61368.82,4,245475.28,5.7,NORTH,Credit Card
+ORD11162,"Mar 21, 2025",Smartphone X,electronics,87419.3,3,262257.9,4,South,UPI
+ORD11086,"Mar 12, 2023",Gaming Console,ELECTRONICS,39858.49,1,39858.49,1,East,upi
+ORD10647,10-04-2022,Gaming Console,Gadgets,,2,123737.16,2.4,NORTH,cod
+ORD11152,11-12-2024,Smartphone X,electronics,59472.64,1,59472.64,3.9,west,Debit card
+ORD11367,02-07-2023,Smartphone X,electronics,45321.7,1,45321.7,3.3,NORTH,Debit card
+ORD10520,23-09-2022,Wireless Earbuds,Gadgets,,3,193287.99,4.5,NORTH,UPI
+ORD10064,11-02-2023,Wireless Earbuds,Electronics,42234.71,1,42234.71,1.8,South,upi
+ORD10014,12-08-2023,Laptop Pro,electronics,39327.02,2,78654.04,2.6,south,UPI
+ORD11180,01-13-2024,Wireless Earbuds,Gadgets,44485.96,two,44485.96,4,East,upi
+ORD11064,18-07-2022,Smartwatch Z,Gadgets,44120.66,4,176482.64,1.5,NORTH,Credit Card
+ORD10492,06-06-2023,Laptop Pro,electronics,80015.2,4,320060.8,2.4,south,cod
+ORD10379,10-28-2024,Smartphone X,electronics,25852.08,3,77556.24,6.6,East,COD
+ORD10187,13-01-2023,Laptop Pro,Gadgets,56249.17,3,168747.51,6,NORTH,Debit card
+ORD10763,"Sep 04, 2023",Smartwatch Z,ELECTRONICS,57015.7,2,114031.4,4.3,South,Debit card
+ORD10216,"Apr 07, 2023",Wireless Earbuds,ELECTRONICS,44498.97,2,88997.94,4,west,Credit Card
+ORD10791,08-05-2022,Laptop Pro,electronics,71719.64,3,215158.92,4.5,west,Credit Card
+ORD11076,23-01-2022,Smartwatch Z,Electronics,42614.46,1,42614.46,1.1,South,UPI
+ORD10878,26-09-2022,Laptop Pro,Electronics,72019.19,2,144038.38,2.8,south,UPI
+ORD10337,21-05-2024,Wireless Earbuds,electronics,66131.86,2,132263.72,,NORTH,UPI
+ORD10719,26-08-2024,Gaming Console,Electronics,39418.95,1,39418.95,2,South,upi
+ORD10295,"Nov 19, 2025",Smartphone X,ELECTRONICS,48914.1,1,48914.1,,NORTH,Debit card
+ORD11016,07-17-2025,Wireless Earbuds,electronics,12669.2,2,25338.4,5,west,UPI
+ORD11275,"Jul 06, 2023",Laptop Pro,Gadgets,,4,114958.56,3.5,East,upi
+ORD10455,03-16-2022,Wireless Earbuds,Gadgets,44377.99,2,88755.98,4.2,NORTH,Credit Card
+ORD10945,"Jan 24, 2023",Gaming Console,ELECTRONICS,40996.21,4,163984.84,2.7,NORTH,upi
+ORD10815,14-11-2023,Smartphone X,electronics,83901.02,2,167802.04,2,south,Debit card
+ORD10269,11-02-2022,Gaming Console,Electronics,66582.77,3,199748.31,4.4,south,UPI
+ORD10995,28-08-2024,Wireless Earbuds,ELECTRONICS,25357.15,4,101428.6,4.4,south,Credit Card
+ORD10201,17-10-2024,Gaming Console,ELECTRONICS,65928.11,1,65928.11,4.9,west,upi
+ORD10161,29-08-2022,Gaming Console,Electronics,49908.74,4,199634.96,1.5,NORTH,upi
+ORD10729,10-07-2023,Smartphone X,Gadgets,33419.66,1,33419.66,4.8,South,upi
+ORD10401,02-15-2022,Laptop Pro,Gadgets,39382.62,4,157530.48,,East,COD
+ORD10702,07-31-2024,Gaming Console,Electronics,46157.78,1,46157.78,3.8,NORTH,Debit card
+ORD11129,11-21-2023,Wireless Earbuds,Electronics,63858.37,4,255433.48,2.8,East,upi
+ORD10565,08-10-2022,Laptop Pro,Electronics,39317.03,1,39317.03,1.3,west,upi
+ORD11021,"Nov 21, 2024",Smartphone X,ELECTRONICS,30921.21,1,30921.21,1.1,NORTH,UPI
+ORD11025,12-12-2025,Smartwatch Z,ELECTRONICS,18715.17,3,56145.51,2.1,NORTH,Credit Card
+ORD10900,04-19-2022,Smartphone X,ELECTRONICS,41800.79,4,167203.16,,west,upi
+ORD11104,"Jun 15, 2022",Smartwatch Z,Electronics,45412.19,4,181648.76,4.7,south,cod
+ORD10205,07-18-2025,Wireless Earbuds,Electronics,59753.47,4,239013.88,2.9,NORTH,COD
+ORD10034,01-27-2023,Smartwatch Z,Gadgets,117445.93,3,352337.79,5.9,NORTH,cod
+ORD10775,17-06-2025,Laptop Pro,Gadgets,60485.29,4,241941.16,3.6,west,COD
+ORD10508,02-12-2024,Wireless Earbuds,electronics,37524.62,1,37524.62,4.9,East,COD
+ORD10344,25-02-2022,Smartwatch Z,Electronics,62151.34,3,186454.02,4.4,East,UPI
+ORD11390,"Jul 27, 2025",Gaming Console,ELECTRONICS,48132.26,4,192529.04,3.1,west,COD
+ORD10091,29-08-2023,Smartwatch Z,Gadgets,51849.58,2,103699.16,1.4,NORTH,cod
+ORD11363,06-07-2025,Laptop Pro,Electronics,61644.89,4,246579.56,4.9,South,upi
+ORD10897,03-31-2025,Smartwatch Z,Electronics,70071.33,1,70071.33,4.7,NORTH,upi
+ORD10564,12-06-2025,Smartphone X,Electronics,56053.71,2,112107.42,4.6,NORTH,COD
+ORD11369,12-10-2025,Smartphone X,electronics,40577.51,3,121732.53,2.4,NORTH,Debit card
+ORD10776,08-19-2023,Smartphone X,Gadgets,52527.59,2,105055.18,5.2,west,Debit card
+ORD10241,08-04-2022,Smartphone X,ELECTRONICS,-4819.1,1,-4819.1,3.4,south,upi
+ORD10013,"May 03, 2023",Wireless Earbuds,Electronics,44166.13,4,176664.52,1.5,west,upi
+ORD10315,06-11-2025,Laptop Pro,Electronics,58885.27,two,235541.08,,NORTH,UPI
+ORD10600,03-25-2025,Smartwatch Z,Electronics,51133,4,204532,1.5,East,upi
+ORD10387,23-12-2022,Smartphone X,Electronics,37542.59,2,75085.18,4.9,west,UPI
+ORD11297,20-02-2025,Laptop Pro,electronics,30079,4,120316,1.3,East,Debit card
+ORD10166,"Mar 09, 2022",Wireless Earbuds,Gadgets,51393.05,3,154179.15,4.7,west,UPI
+ORD10840,25-12-2023,Laptop Pro,Electronics,27125.48,1,27125.48,3.8,East,Debit card
+ORD10020,30-04-2022,Smartwatch Z,ELECTRONICS,47687.03,4,190748.12,4,South,Credit Card
+ORD10646,12-05-2022,Smartwatch Z,Electronics,64916.03,4,259664.12,1.6,NORTH,Credit Card
+ORD11154,05-02-2025,Smartphone X,electronics,52242.1,2,104484.2,3.2,south,cod
+ORD10831,01-02-2023,Gaming Console,Gadgets,,1,60174.5,4.3,south,Debit card
+ORD11267,04-01-2023,Smartphone X,Electronics,-40743.69,4,-162974.76,2.2,East,Credit Card
+ORD10562,16-08-2022,Smartwatch Z,Gadgets,33926.51,2,67853.02,2.8,South,cod
+ORD11094,"Sep 03, 2023",Laptop Pro,ELECTRONICS,48332.31,2,96664.62,3.8,south,cod
+ORD10686,28-12-2025,Laptop Pro,ELECTRONICS,72318.04,2,144636.08,1.8,South,cod
+ORD10957,31-12-2022,Gaming Console,Electronics,62063.75,1,62063.75,1.4,South,Credit Card
+ORD10189,01-22-2024,Laptop Pro,Electronics,60709.84,2,121419.68,2.4,NORTH,cod
+ORD10975,14-12-2024,Smartwatch Z,Gadgets,46407.52,2,92815.04,2.9,west,cod
+ORD10699,"Jun 21, 2022",Smartwatch Z,ELECTRONICS,65428.78,3,196286.34,4.8,NORTH,Debit card
+ORD10510,06-26-2023,Smartphone X,electronics,49382.25,two,49382.25,4.3,East,Credit Card
+ORD11082,28-10-2023,Smartwatch Z,Gadgets,60821.14,1,60821.14,4.1,west,cod
+ORD10474,11-11-2025,Smartphone X,Electronics,12713.37,4,50853.48,4.1,south,cod
+ORD10856,01-13-2024,Smartphone X,ELECTRONICS,38756.64,2,77513.28,3.4,south,Credit Card
+ORD10747,01-08-2025,Laptop Pro,Electronics,60734.87,2,121469.74,3.1,East,UPI
+ORD10252,19-01-2023,Smartphone X,Gadgets,59760.88,4,239043.52,4.1,south,upi
+ORD10021,01-02-2023,Smartwatch Z,ELECTRONICS,43977.93,3,131933.79,4.3,NORTH,cod
+ORD11337,08-05-2023,Smartwatch Z,Electronics,26906.11,3,80718.33,1.4,west,COD
+ORD10459,03-16-2024,Gaming Console,Gadgets,37061.26,4,148245.04,3.9,South,cod
+ORD11184,"Oct 08, 2023",Smartphone X,Electronics,12468.95,3,37406.85,1.3,East,Debit card
+ORD10276,07-06-2022,Gaming Console,Electronics,32183.13,2,64366.26,3.5,East,Credit Card
+ORD10955,05-02-2025,Smartphone X,electronics,22625.91,2,45251.82,,South,upi
+ORD11215,21-01-2022,Smartphone X,electronics,10747.49,2,21494.98,,south,cod
+ORD10385,10-08-2025,Laptop Pro,electronics,82422.17,3,247266.51,,NORTH,Debit card
+ORD10805,21-05-2023,Wireless Earbuds,Electronics,62838.61,4,251354.44,3.3,NORTH,COD
+ORD10707,12-11-2025,Gaming Console,ELECTRONICS,28042.75,two,112171,3.6,East,Debit card
+ORD10343,08-08-2022,Smartphone X,electronics,,2,205295.28,3.9,south,cod
+ORD10769,04-01-2024,Smartphone X,Electronics,31551.8,3,94655.4,3.6,south,UPI
+ORD11332,25-03-2023,Wireless Earbuds,Electronics,69825.17,3,209475.51,2.7,East,cod
+ORD10130,23-01-2023,Smartwatch Z,Gadgets,40271.34,4,161085.36,2.5,South,Debit card
+ORD10871,17-06-2023,Laptop Pro,Electronics,94626,3,283878,2.8,East,cod
+ORD11123,29-06-2023,Wireless Earbuds,Electronics,63626.79,4,254507.16,1.3,NORTH,upi
+ORD11396,14-10-2022,Gaming Console,Gadgets,89797.1,1,89797.1,2.6,west,COD
+ORD10087,25-02-2022,Smartwatch Z,Electronics,64280.01,1,64280.01,,NORTH,COD
+ORD10330,14-03-2025,Smartphone X,ELECTRONICS,53916.91,2,107833.82,1.3,NORTH,UPI
+ORD11238,30-05-2022,Smartphone X,ELECTRONICS,63836.2,3,191508.6,4.8,west,cod
+ORD10466,11-10-2023,Gaming Console,Electronics,,3,130779.15,6.5,west,COD
+ORD10121,27-01-2023,Gaming Console,Gadgets,25044.34,2,50088.68,3.5,NORTH,cod
+ORD11044,15-06-2023,Smartphone X,Gadgets,28754.06,two,28754.06,2,south,Debit card
+ORD11095,03-01-2022,Smartphone X,Gadgets,53713.85,3,161141.55,3.5,west,Credit Card
+ORD11130,26-08-2023,Laptop Pro,Gadgets,60766.48,4,243065.92,2.7,south,cod
+ORD11294,08-17-2023,Laptop Pro,Gadgets,39034.62,1,39034.62,3.3,South,upi
+ORD10860,22-12-2022,Gaming Console,ELECTRONICS,33807.93,1,33807.93,1.9,NORTH,upi
+ORD10490,05-25-2023,Gaming Console,ELECTRONICS,8096.85,2,16193.7,1.6,west,COD
+ORD11126,07-06-2022,Wireless Earbuds,ELECTRONICS,66206.9,1,66206.9,1.1,NORTH,Debit card
