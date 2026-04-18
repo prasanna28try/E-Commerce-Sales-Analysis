@@ -9,7 +9,7 @@ print(df.columns)
 df.info()
 
 df.describe()
-'''
+
 df['price'] = df.groupby('product_category')['price'].transform(lambda x: x.fillna(x.median()))
 print(df['price'])
 df['customer_rating'] = df.groupby('product_category')['customer_rating'].transform(lambda x: x.fillna(x.median()))
@@ -48,7 +48,6 @@ table_name = 'sales'
 df.to_sql(table_name, engine, if_exists='replace', index=False)
 
 pd.read_sql('select * from sales limit 5;', engine)
-'''
-'''
+
 null = df.isnull().sum()
-print(null)'''
+print(null)
